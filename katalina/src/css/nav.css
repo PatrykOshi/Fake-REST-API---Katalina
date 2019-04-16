@@ -1,0 +1,49 @@
+
+/*Navigation*/
+nav{
+    z-index: 1030;
+}
+.responsive-nav{
+    font-size: 1rem;
+    position: fixed;
+    width: 100vw;
+    background-color: rgba(0,0,0,0.8);
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    max-height: 50px;
+    margin: 20px 0 5px 20px;
+}
+.links{
+    margin-right: 20px;
+    color: white;
+}
+.links:hover{
+    text-decoration: none;
+    color: grey;
+}
+
+.nav-space{
+    margin-left: 50px;
+}
+
+.top-link-social{
+    text-decoration: none;
+    margin-right: 20px;
+    color: white;
+}
+.top-link-social:hover{
+    color: white
+}
+
+.top-link:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.nav-links-wrapper{
+    margin-top: 20px;
+    margin-right: 70px;
+}
+

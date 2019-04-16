@@ -1,13 +1,33 @@
-import React from 'react';
+import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './css/main.css';
 import Navi from './nav';
 
-class App extends React.Component {
-    render = () => {
+class App extends Component {
+    constructor(){
+        super();
+        this.state = {
+            width: window.innerWidth
+        }
+    }
+
+    componentDidMount(){
+        this.handleRestizeEvent();
+    }
+
+    handleRestizeEvent = () => {
+        window.onresize = () => {
+            this.setState({
+                width: window.innerWidth
+            });
+        };
+    };
+
+    render(){
         return(
             <div>
-                <Navi />
-                <h1>still works</h1>
+                <Navi currentWidth={this.state.width} />
             </div>
         );
     }

@@ -1,16 +1,35 @@
-import React from 'react';
+import React, { Component } from 'react';
+import './css/nav.css';
 
+class Nav extends Component{
 
-const nav = (pros) =>{
+    render(){
+        return(
+            <nav className="responsive-nav">
+                <a className="nav-link-to-top" href="#top">
+                    <img className="img-fluid logo" src={require('./css/logo.png')} alt="Katalina-logo"/>
+                </a>
 
-    return (
-        <nav className="navbar navbar-inverse PC fixed-top">
-            <img src="../css/logo.png" alt="" />
-        </nav>
-    );
-};
+                <div className="nav-links-wrapper">
+                    <a className="links" href="#nowosci">{this.props.currentWidth}</a>
+                    <a className="links" href="#kolekcje">KOLEKCJE</a>
+                    <a className="links"href="#lookbook">LOOKBOOK</a>
+                    <a className="links"href="#kontakt">KONTAKT</a>
 
-export default nav;
+                    <span className="nav-space"> </span>
+                    <a className="top-link-social" href="https://www.facebook.com/katalinagroup/" >
+                        <i className="fab fa-facebook"> </i>
+                    </a>
+                    <a className="top-link-social" href="https://www.instagram.com/katalinaoprawyokularowe/">
+                        <i className="fab fa-instagram"> </i>
+                    </a>
+                </div>
+            </nav>
+        );
+    }
+}
+
+    export default Nav;
 
 
 
