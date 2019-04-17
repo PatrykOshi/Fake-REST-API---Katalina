@@ -4,7 +4,7 @@ const navPC = () => {
     return (
         <nav className="responsive-nav">
             <a className="nav-link-to-top" href="#top">
-                <img className="img-fluid logo" src={require('../css/logo.png')} alt="Katalina-logo"/>
+                <img className="img-fluid logo" src={require('../content/logo.png')} alt="Katalina-logo"/>
             </a>
             <div className="nav-links-wrapper">
                 <a className="links" href="#nowosci">NOWOŚCI</a>

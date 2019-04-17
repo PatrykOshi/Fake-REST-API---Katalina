@@ -4,7 +4,7 @@ const MobileNav = () =>{
     return (
         <nav className="mobileNavBar">
             <div>
-                <img className="img-fluid mobileLogo" src={require('../css/logo.png')} alt="Katalina-logo"/>
+                <img className="img-fluid mobileLogo" src={require('../content/logo.png')} alt="Katalina-logo"/>
             </div>
             <button className="navbar-toggler" data-toggle="collapse" href="#navBarCallapse" aria-expanded="true" aria-controls="navBarCallapse">
                 <i className="fas fa-bars" style={{color: 'white'}}> </i>
