@@ -8,6 +8,7 @@ import AboutUs from './components/AboutUs';
 import Separator from './components/Separator';
 import Collections from './components/Collections';
 import Parallax from './components/Parallax';
+import Slider from './components/Slider'
 import ParallaxImg1 from './content/parallax/para.jpg';
 import ParallaxImg2 from './content/parallax/para2.jpg';
 
@@ -43,7 +44,8 @@ class App extends Component {
                 <Separator title={'KOLEKCJE'} setId={'onas'} devider={2}/>
                 <Collections />
                 <Parallax imgSrc={ParallaxImg2}/>
-                <Separator title={'LOOKBOOK'} setId={'onas'} devider={1}/>
+                <Separator title={'LOOKBOOK'} setId={'onas'} devider={0}/>
+                <Slider />
                 <Separator title={'KONTAKT'} setId={'onas'} devider={2}/>
             </div>
         );

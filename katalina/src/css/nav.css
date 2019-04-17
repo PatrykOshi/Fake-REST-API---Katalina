@@ -67,7 +67,7 @@
 .mobileNavContent{
     position: absolute;
     top: 70px;
-    width: 100vw;
+    width: 100%;
     background-color: black;
 }
 

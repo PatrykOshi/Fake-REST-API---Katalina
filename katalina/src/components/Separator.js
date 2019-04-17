@@ -25,7 +25,7 @@ const Separator = (props) => {
     };
 
     return (
-        <div className="separator container-fluid" id="onas" style={firstSeparator()}>
+        <div className="separator container-fluid" id={props.setId} style={firstSeparator()}>
             <p className="text-center separatorContent">
                 {props.title}
             </p>
