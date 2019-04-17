@@ -13,9 +13,19 @@ const Separator = (props) => {
             return <img className={classForImg} src={img2} alt=""/>;
         }
     };
+    const firstSeparator = () => {
+      if(parseInt(props.devider) === 0){
+          return (
+              {
+                  height: '200px',
+
+              }
+          );
+      }
+    };
 
     return (
-        <div className="separator container-fluid" id="onas">
+        <div className="separator container-fluid" id="onas" style={firstSeparator()}>
             <p className="text-center separatorContent">
                 {props.title}
             </p>

@@ -13,13 +13,22 @@ const AboutUs = (props) => {
         }
     };
 
+    const getColWidthBoostrap = () =>{
+        if(parseInt(props.currentWidth) <= 1300){
+            return 'col-12';
+        }
+        else{
+            return 'col-lg-5'
+        }
+    };
+
     return (
         <section className="container-fluid">
             <div className="row">
                 <div>
                     {showImg()}
                 </div>
-                <div className="col-md-12 col-lg-5">
+                <div className={getColWidthBoostrap()}>
                     <p className="text-center aboutUsContent">
                         Chcąc wyróżnić się na rynku systematycznie wprowadzamy nową ofertę. Wszystkie wyroby posiadają
                         Deklarację Zgodności (znak CE) oraz zostały wpisane do rejestru wyrobów medycznych.

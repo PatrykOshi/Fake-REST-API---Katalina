@@ -6,6 +6,10 @@ import Navi from './components/nav';
 import ModelBackground from './components/ModelBackground';
 import AboutUs from './components/AboutUs';
 import Separator from './components/Separator';
+import Collections from './components/Collections';
+import Parallax from './components/Parallax';
+import ParallaxImg1 from './content/parallax/para.jpg';
+import ParallaxImg2 from './content/parallax/para2.jpg';
 
 class App extends Component {
     constructor() {
@@ -34,7 +38,13 @@ class App extends Component {
                 <ModelBackground />
                 <Separator title={'O NAS'} setId={'onas'} devider={0}/>
                 <AboutUs currentWidth={this.state.width}/>
-                <Separator title={'NOWOŚCI'} setId={'onas'} devider={2}/>
+                <Separator title={'NOWOŚCI'} setId={'onas'} devider={1}/>
+                <Parallax imgSrc={ParallaxImg1}/>
+                <Separator title={'KOLEKCJE'} setId={'onas'} devider={2}/>
+                <Collections />
+                <Parallax imgSrc={ParallaxImg2}/>
+                <Separator title={'LOOKBOOK'} setId={'onas'} devider={1}/>
+                <Separator title={'KONTAKT'} setId={'onas'} devider={2}/>
             </div>
         );
     }
