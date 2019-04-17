@@ -1,0 +1,58 @@
+/*contact*/
+
+.contactInfoIcon{
+    max-height: 75px;
+}
+
+.contactText{
+    font-size: 15px;
+}
+
+.title{
+    padding-top: 100px;
+    font-size: 25px;
+    letter-spacing: 7px;
+    vertical-align: baseline;
+    border-bottom:black solid 1px ;
+}
+
+.traders{
+    margin-top: 200px;
+    background-color: #f7f7f7;
+}
+
+.containerForTraders{
+    width: 100%;
+    background-color: #f7f7f7;
+}
+.traderWarpper{
+    box-shadow: 1px 1px 31px rgba(0,0,0,.9);
+    background-color: white;
+    border-radius: 5%;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    position: relative;
+}
+
+
+.iconContainer{
+    position: absolute;
+    border-radius: 50%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: -60px;
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    box-shadow: 1px 1px 31px rgba(0,0,0,.9);
+}
+
+.textContent{
+    font-size: 20px;
+    margin-top: 100px;
+}
+
+.iconContainer i{
+    margin-top: 25px;
+}
