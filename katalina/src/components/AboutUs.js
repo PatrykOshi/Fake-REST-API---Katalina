@@ -1,29 +1,42 @@
 import React from 'react';
+import '../css/AboutUs/aboutUs.css';
+import imgSrc from '../content/pics/AboutUs.jpg';
 
-const AboutUs = () => {
+const AboutUs = (props) => {
 
-    return(
-        <div className="container-fluid">
+    const showImg = () =>{
+        if(parseInt(props.currentWidth) <= 1300){
+            return '';
+        }
+        else{
+            return <img className="img-fluid" src={imgSrc} alt=""/>;
+        }
+    };
+
+    return (
+        <section className="container-fluid">
             <div className="row">
-                <div className="col-0 col-md-6">
-                    <img className="img-fluid" src={require('../content/pics/AboutUs.jpg')} />
+                <div>
+                    {showImg()}
                 </div>
-                <div className="col-12 col-md-6">
-                    <p className="text-center">
-                        Chcąc wyróżnić się na rynku systematycznie wprowadzamy nową ofertę. Wszystkie wyroby posiadają Deklarację Zgodności (znak CE) oraz zostały wpisane do rejestru wyrobów medycznych.
-
-
+                <div className="col-md-12 col-lg-5">
+                    <p className="text-center aboutUsContent">
+                        Chcąc wyróżnić się na rynku systematycznie wprowadzamy nową ofertę. Wszystkie wyroby posiadają
+                        Deklarację Zgodności (znak CE) oraz zostały wpisane do rejestru wyrobów medycznych.
+                        <br />
+                        <br />
+                        <br />
                         Wiodące kolekcje opraw korekcyjnych to:
-
-
+                        <br />
+                        <br />
                         MOTTO, EN VOGUE, LA PASSION, TODD, PRELUDIUM, SHOUT,
                         LA CORONA, TALISMAN, VISAGE, GEOS.
-
+                        <br />
                         Serdecznie zapraszamy do współpracy!!
                     </p>
                 </div>
             </div>
-        </div>
+        </section>
     );
 };
 

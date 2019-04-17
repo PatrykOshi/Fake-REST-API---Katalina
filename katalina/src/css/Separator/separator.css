@@ -1,4 +1,23 @@
 /*separator*/
 .separator{
+    width: 100vw;
+    height: 250px;
+    display: flex;
+    margin: 0 auto;
+    position: relative;
+    justify-content: center;
+    background-color: black;
+}
 
+.separatorContent{
+    margin-top: 70px;
+    color: white;
+    font-size: 30px;
+    letter-spacing: 7px;
+}
+
+.imgSpearator{
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
 }

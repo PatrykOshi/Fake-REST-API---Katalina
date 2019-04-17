@@ -32,8 +32,9 @@ class App extends Component {
             <div>
                 <Navi currentWidth={this.state.width}/>
                 <ModelBackground />
-                <Separator title={'O NAS'} setId={'onas'} devider={1}/>
-                <AboutUs />
+                <Separator title={'O NAS'} setId={'onas'} devider={0}/>
+                <AboutUs currentWidth={this.state.width}/>
+                <Separator title={'NOWOŚCI'} setId={'onas'} devider={2}/>
             </div>
         );
     }
