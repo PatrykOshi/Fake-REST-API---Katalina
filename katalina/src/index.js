@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './css/main.css';
 import Navi from './components/nav';
+import ModelBackground from './components/ModelBackground';
 
 class App extends Component {
     constructor() {
@@ -28,6 +29,7 @@ class App extends Component {
         return (
             <div>
                 <Navi currentWidth={this.state.width}/>
+                <ModelBackground />
             </div>
         );
     }

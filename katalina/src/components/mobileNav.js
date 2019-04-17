@@ -15,13 +15,13 @@ const MobileNav = () =>{
                         <a className="linksMobile" href="#nowosci">NOWOŚCI</a>
                     </li>
                     <li className="listOfLinksOnMobile">
-                        <a className="linksMobile" href="#nowosci">KOLEKCJE</a>
+                        <a className="linksMobile" href="#kolekcje">KOLEKCJE</a>
                     </li>
                     <li className="listOfLinksOnMobile">
-                        <a className="linksMobile" href="#nowosci">LOOKBOOK</a>
+                        <a className="linksMobile" href="#lookbook">LOOKBOOK</a>
                     </li>
                     <li className="listOfLinksOnMobile">
-                        <a className="linksMobile" href="#nowosci">KONTAKT</a>
+                        <a className="linksMobile" href="#kontakt">KONTAKT</a>
                     </li>
                 </ul>
             </div>
