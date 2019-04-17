@@ -6,18 +6,26 @@ const MobileNav = () =>{
             <div>
                 <img className="img-fluid mobileLogo" src={require('../css/logo.png')} alt="Katalina-logo"/>
             </div>
-            <button className="navbar-toggler" data-toggle="collapse" href="#navBarCallapse">
+            <button className="navbar-toggler" data-toggle="collapse" href="#navBarCallapse" aria-expanded="true" aria-controls="navBarCallapse">
                 <i className="fas fa-bars" style={{color: 'white'}}> </i>
             </button>
             <div className="collapse mobileNavContent" id="navBarCallapse">
-                <p style={{color: 'white'}}>
-                    asdawdasdwaaaaaaaaa<br/>
-                    asdawdasdwaaaaaaaaa<br/>
-                    asdawdasdwaaaaaaaaa<br/>
-                </p>
+                <ul>
+                    <li className="listOfLinksOnMobile">
+                        <a className="linksMobile" href="#nowosci">NOWOŚCI</a>
+                    </li>
+                    <li className="listOfLinksOnMobile">
+                        <a className="linksMobile" href="#nowosci">KOLEKCJE</a>
+                    </li>
+                    <li className="listOfLinksOnMobile">
+                        <a className="linksMobile" href="#nowosci">LOOKBOOK</a>
+                    </li>
+                    <li className="listOfLinksOnMobile">
+                        <a className="linksMobile" href="#nowosci">KONTAKT</a>
+                    </li>
+                </ul>
             </div>
-        </nav>
-    );
+        </nav>);
 };
 
 export default MobileNav;
