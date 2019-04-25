@@ -1,0 +1,633 @@
+[
+  {
+    "name": "MOTTO",
+    "shortCut": "MT",
+    "news":[
+      [
+        "MOTTO - Wrzesień 2018",
+        [
+          "540",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/motto-wrzesien/MT 540 C1/MT 540 C1_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 540 C1/MT 540 C1_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 540 C1/MT 540 C1_2D_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/motto-wrzesien/MT 540 C2/MT 540 C2_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 540 C2/MT 540 C2_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 540 C2/MT 540 C2_2D_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/motto-wrzesien/MT 540 C3/MT 540 C3_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 540 C3/MT 540 C3_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 540 C3/MT 540 C3_2D_0003.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/motto-wrzesien/MT 540 C4/MT 540 C4_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 540 C4/MT 540 C4_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 540 C4/MT 540 C4_2D_0003.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/motto-wrzesien/MT 540 C5/MT 540 C5_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 540 C5/MT 540 C5_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 540 C5/MT 540 C5_2D_0003.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/motto-wrzesien/MT 540 C6/MT 540 C6_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 540 C6/MT 540 C6_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 540 C6/MT 540 C6_2D_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "541",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/motto-wrzesien/MT 541 C1/MT 541 C1_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 541 C1/MT 541 C1_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 541 C1/MT 541 C1_2D_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/motto-wrzesien/MT 541 C2/MT 541 C2_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 541 C2/MT 541 C2_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 541 C2/MT 541 C2_2D_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/motto-wrzesien/MT 541 C3/MT 541 C3_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 541 C3/MT 541 C3_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 541 C3/MT 541 C3_2D_0003.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/motto-wrzesien/MT 541 C4/MT 541 C4_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 541 C4/MT 541 C4_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 541 C4/MT 541 C4_2D_0003.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/motto-wrzesien/MT 541 C5/MT 541 C5_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 541 C5/MT 541 C5_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 541 C5/MT 541 C5_2D_0003.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/motto-wrzesien/MT 541 C6/MT 541 C6_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 541 C6/MT 541 C6_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 541 C6/MT 541 C6_2D_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "542",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/motto-wrzesien/MT 542 C1/MT 542 C1_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 542 C1/MT 542 C1_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 542 C1/MT 542 C1_2D_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/motto-wrzesien/MT 542 C2/MT 542 C2_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 542 C2/MT 542 C2_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 542 C2/MT 542 C2_2D_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/motto-wrzesien/MT 542 C3/MT 542 C3_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 542 C3/MT 542 C3_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 542 C3/MT 542 C3_2D_0003.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/motto-wrzesien/MT 542 C4/MT 542 C4_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 542 C4/MT 542 C4_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 542 C4/MT 542 C4_2D_0003.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/motto-wrzesien/MT 542 C5/MT 542 C5_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 542 C5/MT 542 C5_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 542 C5/MT 542 C5_2D_0003.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/motto-wrzesien/MT 542 C6/MT 542 C6_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 542 C6/MT 542 C6_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 542 C6/MT 542 C6_2D_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "543",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/motto-wrzesien/MT 543 C1/MT 543 C1_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 543 C1/MT 543 C1_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 543 C1/MT 543 C1_2D_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/motto-wrzesien/MT 543 C2/MT 543 C2_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 543 C2/MT 543 C2_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 543 C2/MT 543 C2_2D_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/motto-wrzesien/MT 543 C3/MT 543 C3_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 543 C3/MT 543 C3_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 543 C3/MT 543 C3_2D_0003.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/motto-wrzesien/MT 543 C4/MT 543 C4_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 543 C4/MT 543 C4_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 543 C4/MT 543 C4_2D_0003.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/motto-wrzesien/MT 543 C5/MT 543 C5_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 543 C5/MT 543 C5_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 543 C5/MT 543 C5_2D_0003.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/motto-wrzesien/MT 543 C6/MT 543 C6_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 543 C6/MT 543 C6_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 543 C6/MT 543 C6_2D_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "548",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/motto-wrzesien/MT 548 C1/MT 548 C1_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 548 C1/MT 548 C1_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 548 C1/MT 548 C1_2D_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/motto-wrzesien/MT 548 C2/MT 548 C2_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 548 C2/MT 548 C2_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 548 C2/MT 548 C2_2D_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/motto-wrzesien/MT 548 C3/MT 548 C3_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 548 C3/MT 548 C3_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 548 C3/MT 548 C3_2D_0003.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/motto-wrzesien/MT 548 C4/MT 548 C4_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 548 C4/MT 548 C4_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 548 C4/MT 548 C4_2D_0003.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/motto-wrzesien/MT 548 C5/MT 548 C5_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 548 C5/MT 548 C5_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 548 C5/MT 548 C5_2D_0003.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/motto-wrzesien/MT 548 C6/MT 548 C6_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 548 C6/MT 548 C6_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 548 C6/MT 548 C6_2D_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "549",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/motto-wrzesien/MT 549 C1/MT 549 C1_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 549 C1/MT 549 C1_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 549 C1/MT 549 C1_2D_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/motto-wrzesien/MT 549 C2/MT 549 C2_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 549 C2/MT 549 C2_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 549 C2/MT 549 C2_2D_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/motto-wrzesien/MT 549 C3/MT 549 C3_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 549 C3/MT 549 C3_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 549 C3/MT 549 C3_2D_0003.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/motto-wrzesien/MT 549 C4/MT 549 C4_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 549 C4/MT 549 C4_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 549 C4/MT 549 C4_2D_0003.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/motto-wrzesien/MT 549 C5/MT 549 C5_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 549 C5/MT 549 C5_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 549 C5/MT 549 C5_2D_0003.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/motto-wrzesien/MT 549 C6/MT 549 C6_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 549 C6/MT 549 C6_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 549 C6/MT 549 C6_2D_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "550",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/motto-wrzesien/MT 550 C1/MT 550 C1_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 550 C1/MT 550 C1_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 550 C1/MT 550 C1_2D_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/motto-wrzesien/MT 550 C2/MT 550 C2_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 550 C2/MT 550 C2_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 550 C2/MT 550 C2_2D_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/motto-wrzesien/MT 550 C3/MT 550 C3_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 550 C3/MT 550 C3_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 550 C3/MT 550 C3_2D_0003.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/motto-wrzesien/MT 550 C4/MT 550 C4_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 550 C4/MT 550 C4_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 550 C4/MT 550 C4_2D_0003.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/motto-wrzesien/MT 550 C5/MT 550 C5_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 550 C5/MT 550 C5_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 550 C5/MT 550 C5_2D_0003.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/motto-wrzesien/MT 550 C6/MT 550 C6_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 550 C6/MT 550 C6_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 550 C6/MT 550 C6_2D_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "551",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/motto-wrzesien/MT 551 C1/MT 551 C1_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 551 C1/MT 551 C1_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 551 C1/MT 551 C1_2D_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/motto-wrzesien/MT 551 C2/MT 551 C2_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 551 C2/MT 551 C2_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 551 C2/MT 551 C2_2D_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/motto-wrzesien/MT 551 C3/MT 551 C3_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 551 C3/MT 551 C3_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 551 C3/MT 551 C3_2D_0003.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/motto-wrzesien/MT 551 C4/MT 551 C4_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 551 C4/MT 551 C4_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 551 C4/MT 551 C4_2D_0003.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/motto-wrzesien/MT 551 C5/MT 551 C5_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 551 C5/MT 551 C5_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 551 C5/MT 551 C5_2D_0003.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/motto-wrzesien/MT 551 C6/MT 551 C6_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 551 C6/MT 551 C6_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 551 C6/MT 551 C6_2D_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "552",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/motto-wrzesien/MT 552 C1/MT 552 C1_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 552 C1/MT 552 C1_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 552 C1/MT 552 C1_2D_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/motto-wrzesien/MT 552 C2/MT 552 C2_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 552 C2/MT 552 C2_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 552 C2/MT 552 C2_2D_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/motto-wrzesien/MT 552 C3/MT 552 C3_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 552 C3/MT 552 C3_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 552 C3/MT 552 C3_2D_0003.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/motto-wrzesien/MT 552 C4/MT 552 C4_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 552 C4/MT 552 C4_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 552 C4/MT 552 C4_2D_0003.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/motto-wrzesien/MT 552 C5/MT 552 C5_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 552 C5/MT 552 C5_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 552 C5/MT 552 C5_2D_0003.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/motto-wrzesien/MT 552 C6/MT 552 C6_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 552 C6/MT 552 C6_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 552 C6/MT 552 C6_2D_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "553",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/motto-wrzesien/MT 553 C1/MT 553 C1_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 553 C1/MT 553 C1_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 553 C1/MT 553 C1_2D_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/motto-wrzesien/MT 553 C2/MT 553 C2_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 553 C2/MT 553 C2_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 553 C2/MT 553 C2_2D_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/motto-wrzesien/MT 553 C3/MT 553 C3_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 553 C3/MT 553 C3_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 553 C3/MT 553 C3_2D_0003.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/motto-wrzesien/MT 553 C4/MT 553 C4_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 553 C4/MT 553 C4_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 553 C4/MT 553 C4_2D_0003.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/motto-wrzesien/MT 553 C5/MT 553 C5_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 553 C5/MT 553 C5_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 553 C5/MT 553 C5_2D_0003.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/motto-wrzesien/MT 553 C6/MT 553 C6_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 553 C6/MT 553 C6_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 553 C6/MT 553 C6_2D_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "554",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/motto-wrzesien/MT 554 C1/MT 554 C1_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 554 C1/MT 554 C1_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 554 C1/MT 554 C1_2D_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/motto-wrzesien/MT 554 C2/MT 554 C2_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 554 C2/MT 554 C2_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 554 C2/MT 554 C2_2D_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/motto-wrzesien/MT 554 C3/MT 554 C3_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 554 C3/MT 554 C3_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 554 C3/MT 554 C3_2D_0003.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/motto-wrzesien/MT 554 C4/MT 554 C4_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 554 C4/MT 554 C4_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 554 C4/MT 554 C4_2D_0003.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/motto-wrzesien/MT 554 C5/MT 554 C5_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 554 C5/MT 554 C5_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 554 C5/MT 554 C5_2D_0003.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/motto-wrzesien/MT 554 C6/MT 554 C6_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 554 C6/MT 554 C6_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 554 C6/MT 554 C6_2D_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "555",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/motto-wrzesien/MT 555 C1/MT 555 C1_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 555 C1/MT 555 C1_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 555 C1/MT 555 C1_2D_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/motto-wrzesien/MT 555 C2/MT 555 C2_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 555 C2/MT 555 C2_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 555 C2/MT 555 C2_2D_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/motto-wrzesien/MT 555 C3/MT 555 C3_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 555 C3/MT 555 C3_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 555 C3/MT 555 C3_2D_0003.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/motto-wrzesien/MT 555 C4/MT 555 C4_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 555 C4/MT 555 C4_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 555 C4/MT 555 C4_2D_0003.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/motto-wrzesien/MT 555 C5/MT 555 C5_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 555 C5/MT 555 C5_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 555 C5/MT 555 C5_2D_0003.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/motto-wrzesien/MT 555 C6/MT 555 C6_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 555 C6/MT 555 C6_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 555 C6/MT 555 C6_2D_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "556",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/motto-wrzesien/MT 556 C1/MT 556 C1_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 556 C1/MT 556 C1_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 556 C1/MT 556 C1_2D_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/motto-wrzesien/MT 556 C2/MT 556 C2_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 556 C2/MT 556 C2_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 556 C2/MT 556 C2_2D_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/motto-wrzesien/MT 556 C3/MT 556 C3_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 556 C3/MT 556 C3_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 556 C3/MT 556 C3_2D_0003.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/motto-wrzesien/MT 556 C4/MT 556 C4_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 556 C4/MT 556 C4_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 556 C4/MT 556 C4_2D_0003.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/motto-wrzesien/MT 556 C5/MT 556 C5_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 556 C5/MT 556 C5_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 556 C5/MT 556 C5_2D_0003.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/motto-wrzesien/MT 556 C6/MT 556 C6_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 556 C6/MT 556 C6_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 556 C6/MT 556 C6_2D_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "557",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/motto-wrzesien/MT 557 C1/MT 557 C1_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 557 C1/MT 557 C1_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 557 C1/MT 557 C1_2D_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/motto-wrzesien/MT 557 C2/MT 557 C2_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 557 C2/MT 557 C2_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 557 C2/MT 557 C2_2D_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/motto-wrzesien/MT 557 C3/MT 557 C3_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 557 C3/MT 557 C3_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 557 C3/MT 557 C3_2D_0003.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/motto-wrzesien/MT 557 C4/MT 557 C4_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 557 C4/MT 557 C4_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 557 C4/MT 557 C4_2D_0003.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/motto-wrzesien/MT 557 C5/MT 557 C5_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 557 C5/MT 557 C5_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 557 C5/MT 557 C5_2D_0003.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/motto-wrzesien/MT 557 C6/MT 557 C6_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 557 C6/MT 557 C6_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 557 C6/MT 557 C6_2D_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "558",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/motto-wrzesien/MT 558 C1/MT 558 C1_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 558 C1/MT 558 C1_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 558 C1/MT 558 C1_2D_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/motto-wrzesien/MT 558 C2/MT 558 C2_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 558 C2/MT 558 C2_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 558 C2/MT 558 C2_2D_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/motto-wrzesien/MT 558 C3/MT 558 C3_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 558 C3/MT 558 C3_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 558 C3/MT 558 C3_2D_0003.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/motto-wrzesien/MT 558 C4/MT 558 C4_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 558 C4/MT 558 C4_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 558 C4/MT 558 C4_2D_0003.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/motto-wrzesien/MT 558 C5/MT 558 C5_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 558 C5/MT 558 C5_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 558 C5/MT 558 C5_2D_0003.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/motto-wrzesien/MT 558 C6/MT 558 C6_2D_0001.jpg",
+              "img2": "./content/Models/motto-wrzesien/MT 558 C6/MT 558 C6_2D_0002.jpg",
+              "img3": "./content/Models/motto-wrzesien/MT 558 C6/MT 558 C6_2D_0003.jpg"
+            }
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "name": "GEOS",
+    "shortCut": "G",
+    "news":[
+
+    ]
+  }
+]
