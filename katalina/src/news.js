@@ -8,7 +8,7 @@ class News extends React.Component{
     render(){
         return(
             <div className="container">
-                <img className="img-fluid" src={require(`${this.props.data[0].news[0][5][1][5].img3}`)}/>
+                <img className="img-fluid" src={require(`${this.props.data[0].news[0][5][1][5].img3}`)} alt=""/>
             </div>
         );
     }
