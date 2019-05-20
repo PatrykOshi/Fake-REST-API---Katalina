@@ -1,4 +1,5 @@
 import React from 'react';
+import {Link} from 'react-router-dom';
 
 const navPC = () => {
     return (
@@ -11,6 +12,13 @@ const navPC = () => {
                 <a className="links" href="#kolekcje">KOLEKCJE</a>
                 <a className="links" href="#lookbook">LOOKBOOK</a>
                 <a className="links" href="#kontakt">KONTAKT</a>
+                <Link to={{
+                    pathname:"/gallery",
+                    test: "as"
+                }}
+                      className="links">
+                    Galeria
+                </Link>
 
                 <span className="nav-space"> </span>
                 <a className="top-link-social" href="https://www.facebook.com/katalinagroup/">

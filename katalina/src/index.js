@@ -1,5 +1,7 @@
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
+import {BrowserRouter, Route, Link} from 'react-router-dom';
+import Gallery from './components/Gallery';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './css/main.css';
 import Navi from './components/nav';
@@ -22,6 +24,27 @@ class App extends Component {
         };
     }
 
+    mainPage = () => {
+        return (
+            <div>
+                <Navi currentWidth={this.state.width}/>
+                <ModelBackground/>
+                <Separator title={'O NAS'} setId={'onas'} devider={0}/>
+                <AboutUs currentWidth={this.state.width}/>
+                <Separator title={'NOWOŚCI'} setId={'nowosci'} devider={1}/>
+                <News data={this.loadJsonData()}/>
+                <Parallax imgSrc={ParallaxImg1}/>
+                <Separator title={'KOLEKCJE'} setId={'kolekcje'} devider={2}/>
+                <Collections/>
+                <Parallax imgSrc={ParallaxImg2}/>
+                <Separator title={'LOOKBOOK'} setId={'lookbook'} devider={0}/>
+                <Slider/>
+                <Separator title={'KONTAKT'} setId={'kontakt'} devider={2}/>
+                <Contact/>
+            </div>
+        );
+    };
+
     componentDidMount() {
         this.handleResizeEvent();
         this.loadJsonData();
@@ -41,22 +64,12 @@ class App extends Component {
 
     render() {
         return (
-            <div>
-                <Navi currentWidth={this.state.width}/>
-                <ModelBackground/>
-                <Separator title={'O NAS'} setId={'onas'} devider={0}/>
-                <AboutUs currentWidth={this.state.width}/>
-                <Separator title={'NOWOŚCI'} setId={'nowosci'} devider={1}/>
-                <News data={this.loadJsonData()}/>
-                <Parallax imgSrc={ParallaxImg1}/>
-                <Separator title={'KOLEKCJE'} setId={'kolekcje'} devider={2}/>
-                <Collections/>
-                <Parallax imgSrc={ParallaxImg2}/>
-                <Separator title={'LOOKBOOK'} setId={'lookbook'} devider={0}/>
-                <Slider/>
-                <Separator title={'KONTAKT'} setId={'kontakt'} devider={2}/>
-                <Contact/>
-            </div>
+            <BrowserRouter>
+                <div>
+                    <Route path="/" exact component={this.mainPage}/>
+                    <Route path="/gallery" component={Gallery}/>
+                </div>
+            </BrowserRouter>
         );
     }
 }
