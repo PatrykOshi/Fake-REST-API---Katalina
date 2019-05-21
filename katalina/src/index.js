@@ -1,9 +1,10 @@
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
-import {BrowserRouter, Route, Link} from 'react-router-dom';
-import Gallery from './components/Gallery';
+import {BrowserRouter, Route} from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './css/main.css';
+import Gallery from './components/Gallery';
+import productView from './components/productView';
 import Navi from './components/nav';
 import ModelBackground from './components/ModelBackground';
 import AboutUs from './components/AboutUs';
@@ -23,6 +24,24 @@ class App extends Component {
             width: window.innerWidth,
         };
     }
+
+
+    componentDidMount() {
+        this.handleResizeEvent();
+        this.loadJsonData();
+    }
+
+    loadJsonData = () => {
+        return JSON.parse(JSON.stringify(require('./data.json')));
+    };
+
+    handleResizeEvent = () => {
+        window.addEventListener('resize', () => {
+            this.setState({
+                width: window.innerWidth
+            });
+        });
+    };
 
     mainPage = () => {
         return (
@@ -45,29 +64,13 @@ class App extends Component {
         );
     };
 
-    componentDidMount() {
-        this.handleResizeEvent();
-        this.loadJsonData();
-    }
-
-    loadJsonData = () => {
-        return JSON.parse(JSON.stringify(require('./data.json')));
-    };
-
-    handleResizeEvent = () => {
-        window.addEventListener('resize', () => {
-            this.setState({
-                width: window.innerWidth
-            });
-        });
-    };
-
     render() {
         return (
             <BrowserRouter>
                 <div>
                     <Route path="/" exact component={this.mainPage}/>
                     <Route path="/gallery" component={Gallery}/>
+                    <Route path="/productView" component={productView}/>
                 </div>
             </BrowserRouter>
         );

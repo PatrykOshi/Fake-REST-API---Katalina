@@ -1,4 +1,5 @@
 import React from 'react';
+import {Link} from 'react-router-dom';
 
 const MobileNav = () =>{
     return (
@@ -22,6 +23,15 @@ const MobileNav = () =>{
                     </li>
                     <li className="listOfLinksOnMobile">
                         <a className="linksMobile" href="#kontakt">KONTAKT</a>
+                    </li>
+                    <li className="listOfLinksOnMobile">
+                        <Link to={{
+                            pathname:"/gallery",
+                            test: "as"
+                        }}
+                              className="links">
+                            OFERTA
+                        </Link>
                     </li>
                 </ul>
             </div>

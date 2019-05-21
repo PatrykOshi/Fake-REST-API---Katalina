@@ -1,7 +1,11 @@
 [
   {
+    "last": 1
+  },
+  {
     "name": "MOTTO",
     "shortCut": "MT",
+    "logo": "./content/CollectionsLogo/MOTTO.jpg",
     "news":[
       [
         "MOTTO - Wrzesień 2018",
@@ -621,13 +625,6 @@
           ]
         ]
       ]
-    ]
-  },
-  {
-    "name": "GEOS",
-    "shortCut": "G",
-    "news":[
-
     ]
   }
 ]

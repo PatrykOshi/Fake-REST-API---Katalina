@@ -17,7 +17,7 @@ const navPC = () => {
                     test: "as"
                 }}
                       className="links">
-                    Galeria
+                    OFERTA
                 </Link>
 
                 <span className="nav-space"> </span>
