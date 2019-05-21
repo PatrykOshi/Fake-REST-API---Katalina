@@ -11,10 +11,14 @@ const News = (props) => {
     const getCarouselItems = () =>{
         let jsxArray = [];
 
-        for(let i = 0; i<newsFrames.length; i++){
+        for(let i = 1; i<newsFrames.length; i++){
             jsxArray.push(
-                <div className={`carousel-item ${i === 1 ? 'active':''}`} key={i}>
-                    <img src={require(`${logo}`)} alt={data[data[0].last].name}/>
+                <div className="col-6 col-md-3" key={i}>
+                    <div className="container">
+                        <img className="img-fluid" src={require(`${logo}`)} alt={data[data[0].last].name}/>
+                        <img className="img-fluid" src={require(`${newsFrames[i][1][0].img2}`)} alt={data[data[0].last].name}/>
+                        Model:{newsFrames[i][0]}
+                    </div>
                 </div>
             );
         }
@@ -27,13 +31,8 @@ const News = (props) => {
             <h2 className="text-center">
                 {data[data[0].last].news[newsLength][0]}
             </h2>
-            <div id="carouselExampleSlidesOnly" className="carousel slide" data-ride="carousel">
-                <div className="carousel-inner">
-                    <div className="carousel-inner">
-                        {getCarouselItems()}
-                        {console.log(newsFrames)}
-                    </div>
-                </div>
+            <div className="row">
+                {getCarouselItems()}
             </div>
 
             <div className="row">
