@@ -111,10 +111,10 @@ class productView extends React.Component{
                         <div className="container" style={{marginTop:"250px"}}>
                             <div className="row">
                                 <div className="col-6 col-md-3">
-                                    <img className="img-fluid" onClick={this.switchImgSrc} id="fr1" src={require(`${this.state.data[this.state.col].news[this.state.news][this.state.model][1][this.state.color].img1}`)} alt=""/>
+                                    <img className="img-fluid imgLink" onClick={this.switchImgSrc} id="fr1" src={require(`${this.state.data[this.state.col].news[this.state.news][this.state.model][1][this.state.color].img1}`)} alt=""/>
                                 </div>
                                 <div className="col-6 col-md-3">
-                                    <img className="img-fluid" onClick={this.switchImgSrc} id="fr2" src={require(`${this.state.data[this.state.col].news[this.state.news][this.state.model][1][this.state.color].img3}`)} alt=""/>
+                                    <img className="img-fluid imgLink" onClick={this.switchImgSrc} id="fr2" src={require(`${this.state.data[this.state.col].news[this.state.news][this.state.model][1][this.state.color].img3}`)} alt=""/>
                                 </div>
                                 <div className="col-12 col-md-6 hideIT">
                                     <table className="table table-striped">

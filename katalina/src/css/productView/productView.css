@@ -19,3 +19,8 @@
 .productView{
     margin-top: 125px;
 }
+
+.imgLink:hover{
+    box-shadow: 1px 1px 31px rgba(0,0,0,.9);
+    cursor: pointer;
+}

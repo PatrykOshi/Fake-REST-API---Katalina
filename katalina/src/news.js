@@ -13,15 +13,18 @@ const News = (props) => {
 
         for(let i = 1; i<newsFrames.length; i++){
             jsxArray.push(
-                <div className="col-6 col-md-3" key={i}>
-                    <div className="container">
-                        <img className="img-fluid" src={require(`${logo}`)} alt={data[data[0].last].name}/>
-                        <img className="img-fluid" src={require(`${newsFrames[i][1][0].img2}`)} alt={data[data[0].last].name}/>
-                        Model:{newsFrames[i][0]}
-                        <Link to={{
-                            pathname: `/productView/${data[0].last}/${newsLength}/${i}/${0}`
-                        }}> Go to {newsFrames[i][0]} </Link>
-                    </div>
+                <div className="col-6 col-md-3 containerLinks" key={i}>
+                    <Link className="linksToProductView" to={{
+                        pathname: `/productView/${data[0].last}/${newsLength}/${i}/${0}`
+                    }}>
+                        <div className="container">
+                            <img className="img-fluid center-block-logo" src={require(`${logo}`)} alt={data[data[0].last].name}/>
+                            <img className="img-fluid" src={require(`${newsFrames[i][1][0].img2}`)} alt={data[data[0].last].name}/>
+                            <p className="text-center model-name-news">
+                                Model:{newsFrames[i][0]}
+                            </p>
+                        </div>
+                    </Link>
                 </div>
             );
         }
