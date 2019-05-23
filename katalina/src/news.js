@@ -18,6 +18,9 @@ const News = (props) => {
                         <img className="img-fluid" src={require(`${logo}`)} alt={data[data[0].last].name}/>
                         <img className="img-fluid" src={require(`${newsFrames[i][1][0].img2}`)} alt={data[data[0].last].name}/>
                         Model:{newsFrames[i][0]}
+                        <Link to={{
+                            pathname: `/productView/${data[0].last}/${newsLength}/${i}`
+                        }}> Go to {newsFrames[i][0]} </Link>
                     </div>
                 </div>
             );

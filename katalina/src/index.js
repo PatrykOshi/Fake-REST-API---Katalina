@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom';
 import {BrowserRouter, Route} from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './css/main.css';
-import Gallery from './components/Gallery';
-import productView from './components/productView';
+import Gallery from './Gallery';
+import productView from './productView';
 import Navi from './components/nav';
 import ModelBackground from './components/ModelBackground';
 import AboutUs from './components/AboutUs';
@@ -70,7 +70,7 @@ class App extends Component {
                 <div>
                     <Route path="/" exact component={this.mainPage}/>
                     <Route path="/gallery" component={Gallery}/>
-                    <Route path="/productView" component={productView}/>
+                    <Route path="/productView/:col/:news/:model" component={productView}/>
                 </div>
             </BrowserRouter>
         );
