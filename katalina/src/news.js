@@ -32,6 +32,8 @@ const News = (props) => {
             jsxArray
         );
     };
+
+
     return(
         <div className="container-fluid">
             <h2 className="text-center">

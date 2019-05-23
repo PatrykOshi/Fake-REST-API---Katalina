@@ -14,6 +14,7 @@
 
 .img-zoom-result {
     border: 1px solid black;
+    min-height: 260px;
 }
 
 .productView{
@@ -22,5 +23,36 @@
 
 .imgLink:hover{
     box-shadow: 1px 1px 31px rgba(0,0,0,.9);
+    cursor: pointer;
+}
+
+.colors-links{
+    position: relative;
+}
+
+.colors-links:hover{
+    box-shadow: 1px 1px 31px rgba(0,0,0,.9);
+    transition: 2s;
+}
+
+.colors-links:hover img{
+    filter: blur(3px);
+}
+.colors-links p{
+    visibility: hidden;
+}
+
+.colors-links:hover p{
+    color: black;
+    visibility: visible;
+}
+.tooltip-colors{
+    font-size: 25px;
+    position: absolute;
+    top: 25%;
+    left: 0;
+    right: 0;
+}
+.tooltip-colors:hover{
     cursor: pointer;
 }

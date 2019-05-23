@@ -1,5 +1,8 @@
 import React from 'react';
 import Nav from './components/nav';
+import Colors from './productViewColors';
+import Footer from './components/footer';
+import Separator from './components/Separator';
 import './css/productView/productView.css';
 
 class productView extends React.Component{
@@ -13,6 +16,8 @@ class productView extends React.Component{
             color :props.match.params.color,
             width: window.innerWidth
         };
+        this.spinner2 = React.createRef();
+        this.content = React.createRef();
     }
 
 
@@ -20,6 +25,23 @@ class productView extends React.Component{
         window.scrollTo(0, 0);
         this.handleResizeEvent();
     }
+    handleLoad = () =>{
+        let interval = setInterval(() =>{
+            if(document.readyState === 'complete') {
+                clearInterval(interval);
+                this.spinner2.current.style.display = "none";
+                this.content.current.style.display = "block";
+                try{
+                    let element = document.getElementById("len");
+                    element.parentNode.removeChild(element);
+                    this.imageZoom("myimage","myresult");
+                }
+                catch (e) {
+                    this.imageZoom("myimage","myresult");
+                }
+            }
+        }, 100);
+    };
 
     switchImgSrc = (e) =>{
         let main = document.getElementById("myimage");
@@ -106,43 +128,52 @@ class productView extends React.Component{
     getContent = () =>{
         try {
             return(
-                <div className="container" onLoad={this.loadLens}>
-                    <div className="row" >
-                        <div className="container" style={{marginTop:"250px"}}>
-                            <div className="row">
-                                <div className="col-6 col-md-3">
-                                    <img className="img-fluid imgLink" onClick={this.switchImgSrc} id="fr1" src={require(`${this.state.data[this.state.col].news[this.state.news][this.state.model][1][this.state.color].img1}`)} alt=""/>
+                <div>
+                    <div className="container" ref={this.spinner2}>
+                        <div className="row text-center">
+                            <i className="fa fa-spinner fa-spin col" style={{fontSize:"100px", marginTop:"300px"}}> </i>
+                        </div>
+                    </div>
+                    <div ref={this.content} className="container fadeIn animated" onLoad={this.loadLens} style={{display:"none"}} >
+                        <div className="row" onLoad={this.handleLoad}>
+                            <div className="container" style={{marginTop:"250px"}}>
+                                <div className="row">
+                                    <div className="col-6 col-md-3">
+                                        <img className="img-fluid imgLink" onClick={this.switchImgSrc} id="fr1" src={require(`${this.state.data[this.state.col].news[this.state.news][this.state.model][1][this.state.color].img1}`)} alt=""/>
+                                    </div>
+                                    <div className="col-6 col-md-3">
+                                        <img className="img-fluid imgLink" onClick={this.switchImgSrc} id="fr2" src={require(`${this.state.data[this.state.col].news[this.state.news][this.state.model][1][this.state.color].img3}`)} alt=""/>
+                                    </div>
+                                    <div className="col-12 col-md-6 hideIT">
+                                        <table className="table table-striped">
+                                            <tbody>
+                                            <tr>
+                                                <td>Kolekcja:</td>
+                                                <td>{this.state.data[this.state.col].name}</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Model:</td>
+                                                <td>{this.state.data[this.state.col].news[this.state.news][this.state.model][0]}</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Kolor:</td>
+                                                <td>{this.state.data[this.state.col].news[this.state.news][this.state.model][1][this.state.color].color}</td>
+                                            </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
                                 </div>
-                                <div className="col-6 col-md-3">
-                                    <img className="img-fluid imgLink" onClick={this.switchImgSrc} id="fr2" src={require(`${this.state.data[this.state.col].news[this.state.news][this.state.model][1][this.state.color].img3}`)} alt=""/>
-                                </div>
-                                <div className="col-12 col-md-6 hideIT">
-                                    <table className="table table-striped">
-                                        <tbody>
-                                        <tr>
-                                            <td>Marka:</td>
-                                            <td>{this.state.data[this.state.col].name}</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Model:</td>
-                                            <td>{this.state.data[this.state.col].news[this.state.news][this.state.model][0]}</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Kolor:</td>
-                                            <td>{this.state.data[this.state.col].news[this.state.news][this.state.model][1][this.state.color].color}</td>
-                                        </tr>
-                                        </tbody>
-                                    </table>
+                                <div className="row">
+                                    <div className="col-12 col-md-6 img-zoom-container">
+                                        <img className="img-fluid" id="myimage" src={require(`${this.state.data[this.state.col].news[this.state.news][this.state.model][1][this.state.color].img2}`)} alt=""/>
+                                    </div>
+                                    <div className="col-12 col-md-6 img-zoom-result" id="myresult">
+                                    </div>
                                 </div>
                             </div>
-                            <div className="row">
-                                <div className="col-12 col-md-6 img-zoom-container">
-                                    <img className="img-fluid" id="myimage" src={require(`${this.state.data[this.state.col].news[this.state.news][this.state.model][1][this.state.color].img2}`)} alt=""/>
-                                </div>
-                                <div className="col-12 col-md-6 img-zoom-result" id="myresult">
-
-                                </div>
-                            </div>
+                        </div>
+                        <div className="row" style={{marginTop:"25px"}}>
+                            <Colors col={this.state.col} news={this.state.news} model={this.state.model} data={this.state.data[this.state.col].news[this.state.news][this.state.model][1]}/>
                         </div>
                     </div>
                 </div>
@@ -160,7 +191,9 @@ class productView extends React.Component{
         return(
             <div>
                 <Nav currentWidth={this.state.width}/>
+                <Separator title={`${this.state.data[this.state.col].name} ${this.state.data[this.state.col].news[this.state.news][this.state.model][0]} ${this.state.data[this.state.col].news[this.state.news][this.state.model][1][this.state.color].color}`} setId={''} devider={2}/>
                 {this.getContent()}
+                <Footer />
             </div>
         );
     }

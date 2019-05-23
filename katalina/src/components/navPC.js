@@ -4,14 +4,14 @@ import {Link} from 'react-router-dom';
 const navPC = () => {
     return (
         <nav className="responsive-nav">
-            <a className="nav-link-to-top" href="#top">
+            <a className="nav-link-to-top" href="/#top">
                 <img className="img-fluid logo" src={require('../content/logo.png')} alt="Katalina-logo"/>
             </a>
             <div className="nav-links-wrapper">
-                <a className="links" href="/#nowosci">NOWOŚCI</a>
-                <a className="links" href="/#kolekcje">KOLEKCJE</a>
-                <a className="links" href="/#lookbook">LOOKBOOK</a>
-                <a className="links" href="/#kontakt">KONTAKT</a>
+                <a className="links scroll" href="/#nowosci">NOWOŚCI</a>
+                <a className="links scroll" href="/#kolekcje">KOLEKCJE</a>
+                <a className="links scroll" href="/#lookbook">LOOKBOOK</a>
+                <a className="links scroll" href="/#kontakt">KONTAKT</a>
                 <Link to={{
                     pathname:"/gallery",
                     test: "as"

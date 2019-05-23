@@ -14,15 +14,19 @@ import Parallax from './components/Parallax';
 import Slider from './components/Slider';
 import Contact from './components/Contact';
 import News from './news';
+import Footer from './components/footer';
 import ParallaxImg1 from './content/parallax/para.jpg';
 import ParallaxImg2 from './content/parallax/para2.jpg';
+
 
 class App extends Component {
     constructor() {
         super();
         this.state = {
-            width: window.innerWidth,
+            width: window.innerWidth
         };
+        this.newsContent = React.createRef();
+        this.spinner = React.createRef();
     }
 
 
@@ -30,6 +34,20 @@ class App extends Component {
         this.handleResizeEvent();
         this.loadJsonData();
     }
+
+    handleLoad = () =>{
+        let interval = setInterval(() =>{
+            if(document.readyState === 'complete') {
+                clearInterval(interval);
+                try{
+                    this.spinner.current.style.display = "none";
+                    this.newsContent.current.style.display = "block";
+                }catch (e) {
+
+                }
+            }
+        }, 100);
+    };
 
     loadJsonData = () => {
         return JSON.parse(JSON.stringify(require('./data.json')));
@@ -51,7 +69,20 @@ class App extends Component {
                 <Separator title={'O NAS'} setId={'onas'} devider={0}/>
                 <AboutUs currentWidth={this.state.width}/>
                 <Separator title={'NOWOŚCI'} setId={'nowosci'} devider={1}/>
-                <News data={this.loadJsonData()}/>
+                <div>
+                    <div>
+                        <div className="container" ref={this.spinner} >
+                            <div className="row text-center">
+                                <i className="fa fa-spinner fa-spin col" style={{fontSize:"100px", marginTop:"15px", marginBottom:"15px"}}> </i>
+                            </div>
+                        </div>
+                    </div>
+                    <div ref={this.newsContent} style={{display:"none"}}>
+                        <div className="fadeIn animated" onLoad={this.handleLoad}>
+                            <News data={this.loadJsonData()}/>
+                        </div>
+                    </div>
+                </div>
                 <Parallax imgSrc={ParallaxImg1}/>
                 <Separator title={'KOLEKCJE'} setId={'kolekcje'} devider={2}/>
                 <Collections/>
@@ -60,6 +91,7 @@ class App extends Component {
                 <Slider/>
                 <Separator title={'KONTAKT'} setId={'kontakt'} devider={2}/>
                 <Contact/>
+                <Footer />
             </div>
         );
     };
