@@ -13,7 +13,7 @@ const News = (props) => {
 
         for(let i = 1; i<newsFrames.length; i++){
             jsxArray.push(
-                <div className="col-6 col-md-3 containerLinks" key={i}>
+                <div className="col-6 col-md-3 containerLinks" key={i} >
                     <Link className="linksToProductView" to={{
                         pathname: `/productView/${data[0].last}/${newsLength}/${i}/${0}`
                     }}>

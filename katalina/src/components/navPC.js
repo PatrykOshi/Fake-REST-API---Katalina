@@ -8,10 +8,10 @@ const navPC = () => {
                 <img className="img-fluid logo" src={require('../content/logo.png')} alt="Katalina-logo"/>
             </a>
             <div className="nav-links-wrapper">
-                <a className="links" href="#nowosci">NOWOŚCI</a>
-                <a className="links" href="#kolekcje">KOLEKCJE</a>
-                <a className="links" href="#lookbook">LOOKBOOK</a>
-                <a className="links" href="#kontakt">KONTAKT</a>
+                <a className="links" href="/#nowosci">NOWOŚCI</a>
+                <a className="links" href="/#kolekcje">KOLEKCJE</a>
+                <a className="links" href="/#lookbook">LOOKBOOK</a>
+                <a className="links" href="/#kontakt">KONTAKT</a>
                 <Link to={{
                     pathname:"/gallery",
                     test: "as"

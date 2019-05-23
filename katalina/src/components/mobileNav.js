@@ -13,16 +13,16 @@ const MobileNav = () =>{
             <div className="collapse mobileNavContent" id="navBarCallapse">
                 <ul>
                     <li className="listOfLinksOnMobile">
-                        <a className="linksMobile" href="#nowosci">NOWOŚCI</a>
+                        <a className="linksMobile" href="/#nowosci">NOWOŚCI</a>
                     </li>
                     <li className="listOfLinksOnMobile">
-                        <a className="linksMobile" href="#kolekcje">KOLEKCJE</a>
+                        <a className="linksMobile" href="/#kolekcje">KOLEKCJE</a>
                     </li>
                     <li className="listOfLinksOnMobile">
-                        <a className="linksMobile" href="#lookbook">LOOKBOOK</a>
+                        <a className="linksMobile" href="/#lookbook">LOOKBOOK</a>
                     </li>
                     <li className="listOfLinksOnMobile">
-                        <a className="linksMobile" href="#kontakt">KONTAKT</a>
+                        <a className="linksMobile" href="/#kontakt">KONTAKT</a>
                     </li>
                     <li className="listOfLinksOnMobile">
                         <Link to={{
