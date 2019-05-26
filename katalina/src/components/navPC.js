@@ -3,7 +3,9 @@ import {Link} from 'react-router-dom';
 
 const navPC = () => {
     return (
-        <nav className="responsive-nav">
+        <nav className="responsive-nav" style={{
+            zIndex:"1"
+        }}>
             <a className="nav-link-to-top" href="/#top">
                 <img className="img-fluid logo" src={require('../content/logo.png')} alt="Katalina-logo"/>
             </a>

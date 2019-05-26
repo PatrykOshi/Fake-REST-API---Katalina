@@ -1,6 +1,6 @@
 [
   {
-    "last": 1
+    "last": 2
   },
   {
     "name": "MOTTO",
@@ -609,6 +609,476 @@
               "img1": "./content/Models/motto-wrzesien/MT 558 C6/MT 558 C6_2D_0001.jpg",
               "img2": "./content/Models/motto-wrzesien/MT 558 C6/MT 558 C6_2D_0002.jpg",
               "img3": "./content/Models/motto-wrzesien/MT 558 C6/MT 558 C6_2D_0003.jpg"
+            }
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "name": "MOTTO",
+    "shortCut": "MT",
+    "logo": "./content/CollectionsLogo/sticker for lens.jpg",
+    "news":[
+      [
+        "GEOS styczeń 2019",
+        [
+          "0001",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/gsty2019/GEOS 0001 C1/GEOS 0001 C1_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0001 C1/GEOS 0001 C1_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0001 C1/GEOS 0001 C1_2d_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/gsty2019/GEOS 0001 C2/GEOS 0001 C2_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0001 C2/GEOS 0001 C2_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0001 C2/GEOS 0001 C2_2d_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/gsty2019/GEOS 0001 C3/GEOS 0001 C3_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0001 C3/GEOS 0001 C3_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0001 C3/GEOS 0001 C3_2d_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "0002",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/gsty2019/GEOS 0002 C1/GEOS 0002 C1_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0002 C1/GEOS 0002 C1_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0002 C1/GEOS 0002 C1_2d_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/gsty2019/GEOS 0002 C2/GEOS 0002 C2_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0002 C2/GEOS 0002 C2_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0002 C2/GEOS 0002 C2_2d_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/gsty2019/GEOS 0002 C3/GEOS 0002 C3_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0002 C3/GEOS 0002 C3_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0002 C3/GEOS 0002 C3_2d_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "0003",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/gsty2019/GEOS 0003 C1/GEOS 0003 C1_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0003 C1/GEOS 0003 C1_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0003 C1/GEOS 0003 C1_2d_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/gsty2019/GEOS 0003 C2/GEOS 0003 C2_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0003 C2/GEOS 0003 C2_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0003 C2/GEOS 0003 C2_2d_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/gsty2019/GEOS 0003 C3/GEOS 0003 C3_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0003 C3/GEOS 0003 C3_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0003 C3/GEOS 0003 C3_2d_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "0004",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/gsty2019/GEOS 0004 C1/GEOS 0004 C1_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0004 C1/GEOS 0004 C1_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0004 C1/GEOS 0004 C1_2d_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/gsty2019/GEOS 0004 C2/GEOS 0004 C2_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0004 C2/GEOS 0004 C2_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0004 C2/GEOS 0004 C2_2d_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/gsty2019/GEOS 0004 C3/GEOS 0004 C3_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0004 C3/GEOS 0004 C3_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0004 C3/GEOS 0004 C3_2d_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "0005",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/gsty2019/GEOS 0005 C1/GEOS 0005 C1_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0005 C1/GEOS 0005 C1_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0005 C1/GEOS 0005 C1_2d_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/gsty2019/GEOS 0005 C2/GEOS 0005 C2_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0005 C2/GEOS 0005 C2_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0005 C2/GEOS 0005 C2_2d_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/gsty2019/GEOS 0005 C3/GEOS 0005 C3_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0005 C3/GEOS 0005 C3_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0005 C3/GEOS 0005 C3_2d_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "0006",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/gsty2019/GEOS 0006 C1/GEOS 0006 C1_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0006 C1/GEOS 0006 C1_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0006 C1/GEOS 0006 C1_2d_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/gsty2019/GEOS 0006 C2/GEOS 0006 C2_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0006 C2/GEOS 0006 C2_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0006 C2/GEOS 0006 C2_2d_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/gsty2019/GEOS 0006 C3/GEOS 0006 C3_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0006 C3/GEOS 0006 C3_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0006 C3/GEOS 0006 C3_2d_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "0007",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/gsty2019/GEOS 0007 C1/GEOS 0007 C1_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0007 C1/GEOS 0007 C1_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0007 C1/GEOS 0007 C1_2d_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/gsty2019/GEOS 0007 C2/GEOS 0007 C2_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0007 C2/GEOS 0007 C2_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0007 C2/GEOS 0007 C2_2d_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/gsty2019/GEOS 0007 C3/GEOS 0007 C3_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0007 C3/GEOS 0007 C3_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0007 C3/GEOS 0007 C3_2d_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "0008",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/gsty2019/GEOS 0008 C1/GEOS 0008 C1_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0008 C1/GEOS 0008 C1_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0008 C1/GEOS 0008 C1_2d_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/gsty2019/GEOS 0008 C2/GEOS 0008 C2_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0008 C2/GEOS 0008 C2_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0008 C2/GEOS 0008 C2_2d_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/gsty2019/GEOS 0008 C3/GEOS 0008 C3_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0008 C3/GEOS 0008 C3_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0008 C3/GEOS 0008 C3_2d_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "0009",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/gsty2019/GEOS 0009 C1/GEOS 0009 C1_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0009 C1/GEOS 0009 C1_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0009 C1/GEOS 0009 C1_2d_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/gsty2019/GEOS 0009 C2/GEOS 0009 C2_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0009 C2/GEOS 0009 C2_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0009 C2/GEOS 0009 C2_2d_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/gsty2019/GEOS 0009 C3/GEOS 0009 C3_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0009 C3/GEOS 0009 C3_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0009 C3/GEOS 0009 C3_2d_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "0010",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/gsty2019/GEOS 0010 C1/GEOS 0010 C1_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0010 C1/GEOS 0010 C1_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0010 C1/GEOS 0010 C1_2d_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/gsty2019/GEOS 0010 C2/GEOS 0010 C2_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0010 C2/GEOS 0010 C2_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0010 C2/GEOS 0010 C2_2d_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/gsty2019/GEOS 0010 C3/GEOS 0010 C3_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0010 C3/GEOS 0010 C3_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0010 C3/GEOS 0010 C3_2d_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "0011",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/gsty2019/GEOS 0011 C1/GEOS 0011 C1_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0011 C1/GEOS 0011 C1_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0011 C1/GEOS 0011 C1_2d_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/gsty2019/GEOS 0011 C2/GEOS 0011 C2_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0011 C2/GEOS 0011 C2_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0011 C2/GEOS 0011 C2_2d_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/gsty2019/GEOS 0011 C3/GEOS 0011 C3_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0011 C3/GEOS 0011 C3_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0011 C3/GEOS 0011 C3_2d_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "0012",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/gsty2019/GEOS 0012 C1/GEOS 0012 C1_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0012 C1/GEOS 0012 C1_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0012 C1/GEOS 0012 C1_2d_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/gsty2019/GEOS 0012 C2/GEOS 0012 C2_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0012 C2/GEOS 0012 C2_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0012 C2/GEOS 0012 C2_2d_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/gsty2019/GEOS 0012 C3/GEOS 0012 C3_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0012 C3/GEOS 0012 C3_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0012 C3/GEOS 0012 C3_2d_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "0013",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/gsty2019/GEOS 0013 C1/GEOS 0013 C1_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0013 C1/GEOS 0013 C1_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0013 C1/GEOS 0013 C1_2d_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/gsty2019/GEOS 0013 C2/GEOS 0013 C2_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0013 C2/GEOS 0013 C2_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0013 C2/GEOS 0013 C2_2d_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/gsty2019/GEOS 0013 C3/GEOS 0013 C3_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0013 C3/GEOS 0013 C3_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0013 C3/GEOS 0013 C3_2d_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "0014",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/gsty2019/GEOS 0014 C1/GEOS 0014 C1_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0014 C1/GEOS 0014 C1_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0014 C1/GEOS 0014 C1_2d_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/gsty2019/GEOS 0014 C2/GEOS 0014 C2_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0014 C2/GEOS 0014 C2_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0014 C2/GEOS 0014 C2_2d_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/gsty2019/GEOS 0014 C3/GEOS 0014 C3_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0014 C3/GEOS 0014 C3_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0014 C3/GEOS 0014 C3_2d_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "0015",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/gsty2019/GEOS 0015 C1/GEOS 0015 C1_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0015 C1/GEOS 0015 C1_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0015 C1/GEOS 0015 C1_2d_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/gsty2019/GEOS 0015 C2/GEOS 0015 C2_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0015 C2/GEOS 0015 C2_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0015 C2/GEOS 0015 C2_2d_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/gsty2019/GEOS 0015 C3/GEOS 0015 C3_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0015 C3/GEOS 0015 C3_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0015 C3/GEOS 0015 C3_2d_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "0016",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/gsty2019/GEOS 0016 C1/GEOS 0016 C1_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0016 C1/GEOS 0016 C1_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0016 C1/GEOS 0016 C1_2d_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/gsty2019/GEOS 0016 C2/GEOS 0016 C2_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0016 C2/GEOS 0016 C2_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0016 C2/GEOS 0016 C2_2d_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/gsty2019/GEOS 0016 C3/GEOS 0016 C3_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0016 C3/GEOS 0016 C3_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0016 C3/GEOS 0016 C3_2d_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "0017",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/gsty2019/GEOS 0017 C1/GEOS 0017 C1_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0017 C1/GEOS 0017 C1_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0017 C1/GEOS 0017 C1_2d_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/gsty2019/GEOS 0017 C2/GEOS 0017 C2_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0017 C2/GEOS 0017 C2_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0017 C2/GEOS 0017 C2_2d_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/gsty2019/GEOS 0017 C3/GEOS 0017 C3_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0017 C3/GEOS 0017 C3_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0017 C3/GEOS 0017 C3_2d_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "0018",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/gsty2019/GEOS 0018 C1/GEOS 0018 C1_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0018 C1/GEOS 0018 C1_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0018 C1/GEOS 0018 C1_2d_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/gsty2019/GEOS 0018 C2/GEOS 0018 C2_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0018 C2/GEOS 0018 C2_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0018 C2/GEOS 0018 C2_2d_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/gsty2019/GEOS 0018 C3/GEOS 0018 C3_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0018 C3/GEOS 0018 C3_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0018 C3/GEOS 0018 C3_2d_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "0019",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/gsty2019/GEOS 0019 C1/GEOS 0019 C1_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0019 C1/GEOS 0019 C1_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0019 C1/GEOS 0019 C1_2d_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/gsty2019/GEOS 0019 C2/GEOS 0019 C2_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0019 C2/GEOS 0019 C2_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0019 C2/GEOS 0019 C2_2d_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/gsty2019/GEOS 0019 C3/GEOS 0019 C3_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0019 C3/GEOS 0019 C3_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0019 C3/GEOS 0019 C3_2d_0003.jpg"
+            }
+          ]
+        ],
+        [
+          "0020",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/gsty2019/GEOS 0020 C1/GEOS 0020 C1_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0020 C1/GEOS 0020 C1_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0020 C1/GEOS 0020 C1_2d_0003.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/gsty2019/GEOS 0020 C2/GEOS 0020 C2_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0020 C2/GEOS 0020 C2_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0020 C2/GEOS 0020 C2_2d_0003.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/gsty2019/GEOS 0020 C3/GEOS 0020 C3_2d_0001.jpg",
+              "img2": "./content/Models/gsty2019/GEOS 0020 C3/GEOS 0020 C3_2d_0002.jpg",
+              "img3": "./content/Models/gsty2019/GEOS 0020 C3/GEOS 0020 C3_2d_0003.jpg"
             }
           ]
         ]

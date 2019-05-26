@@ -101,7 +101,7 @@ class App extends Component {
             <BrowserRouter>
                 <div>
                     <Route path="/" exact component={this.mainPage}/>
-                    <Route path="/gallery" component={Gallery}/>
+                    <Route path="/gallery/:col?/:news?" component={Gallery}/>
                     <Route path="/productView/:col/:news/:model/:color" component={productView}/>
                 </div>
             </BrowserRouter>
