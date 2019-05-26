@@ -36,9 +36,15 @@ const News = (props) => {
 
     return(
         <div className="container-fluid">
-            <h2 className="text-center">
-                {data[data[0].last].news[newsLength][0]}
-            </h2>
+            <Link style={{
+               color:"black"
+            }} to={{
+                pathname: `/gallery/${data[0].last}/${newsLength}`
+            }}>
+                <h2 className="text-center">
+                    {data[data[0].last].news[newsLength][0]}
+                </h2>
+            </Link>
             <div className="row">
                 {getCarouselItems()}
             </div>
