@@ -74,8 +74,11 @@ class Gallery extends React.Component{
                 return 3;
             case 6:
                 return 2;
+<<<<<<< HEAD
             default:
                 return 3;
+=======
+>>>>>>> 8057a2d21d11d9c7dab311c8701ad1c490105ff0
         }
     };
 
@@ -225,20 +228,32 @@ class Gallery extends React.Component{
                         <div className="col-0 col-md-3"> </div>
                         <div className="col-12 col-md-9">
 
+<<<<<<< HEAD
                             <div className="container-fluid" style={{paddingTop:"15px"}}>
                                 <div className="row">
                                     <label className="labelsForGallery" htmlFor="selectForAmountOfRows">Liczba oprawek w rzędzie:</label>
                                     <select id="selectForAmountOfRows" className="form-control col-12 col-md-1" onChange={this.setRows} >
+=======
+                            <div className="container">
+                                <div className="row">
+                                    <label htmlFor="allOrNotAll">Pokaż wszystko</label>
+                                    <input id="allOrNotAll" type="checkbox" onClick={this.showHideAll}/>
+
+                                    <select className="form-control col-3" onChange={this.setRows} >
+>>>>>>> 8057a2d21d11d9c7dab311c8701ad1c490105ff0
                                         <option value={1} >1</option>
                                         <option value={2} >2</option>
                                         <option value={3} >3</option>
                                         <option value={4} selected >4</option>
                                         <option value={6} >6</option>
                                     </select>
+<<<<<<< HEAD
                                     <div className="col">
                                         <label className="labelsForGallery" htmlFor="allOrNotAll">Pokaż wszystko</label>
                                         <input id="allOrNotAll" type="checkbox" disabled={this.props.match.params.col? 'true':''} onClick={this.showHideAll}/>
                                     </div>
+=======
+>>>>>>> 8057a2d21d11d9c7dab311c8701ad1c490105ff0
                                 </div>
                             </div>
 
