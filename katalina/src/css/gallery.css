@@ -1,3 +1,39 @@
 .spacer{
     height: 75px;
 }
+
+
+.model-link-from-gallery{
+    margin-bottom: 15px;
+}
+.model-img-container{
+    width: 100%;
+    display: flex;
+}
+
+.model-link-from-gallery:hover{
+    box-shadow: 1px 1px 15px rgba(0,0,0,.9);
+    text-decoration: none;
+}
+
+.model-img{
+    max-height: 130px;
+    justify-content: center;
+    margin: auto;
+}
+.model-details{
+    color: black;
+}
+.labelsForGallery{
+    padding-top: 6px;
+}
+@media only screen and (min-width: 767px)  {
+    .model-details{
+        margin-top: 50px;
+    }
+}
+
+.model-details:hover{
+    color: black;
+}
+

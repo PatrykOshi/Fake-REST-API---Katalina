@@ -7,8 +7,7 @@ const sideSection = (props) => {
             {
                 position: `${props.width <= 767 ? 'relative' : 'fixed'}`,
                 height: `${props.width <= 767 ? 'auto': '100%'}`,
-                overflow:`${props.width <= 767 ? '': 'scroll'}`,
-                backgroundColor:"pink"
+                overflow:`${props.width <= 767 ? '': 'scroll'}`
             }
         }>
             <div>

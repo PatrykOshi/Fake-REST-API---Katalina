@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/src/content/Models
 /.pnp
 .pnp.js
 .idea

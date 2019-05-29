@@ -136,7 +136,7 @@ class productView extends React.Component{
                     </div>
                     <div ref={this.content} className="container fadeIn animated" onLoad={this.loadLens} style={{display:"none"}} >
                         <div className="row" onLoad={this.handleLoad}>
-                            <div className="container" style={{marginTop:"250px"}}>
+                            <div className="container" style={{marginTop:"50px"}}>
                                 <div className="row">
                                     <div className="col-6 col-md-3">
                                         <img className="img-fluid imgLink" onClick={this.switchImgSrc} id="fr1" src={require(`${this.state.data[this.state.col].news[this.state.news][this.state.model][1][this.state.color].img1}`)} alt=""/>

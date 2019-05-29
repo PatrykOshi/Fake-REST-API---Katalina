@@ -2,17 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1e4ad8a-b749-42f8-a284-bbe28b7094a1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/katalina/src/components/sideSection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/katalina/src/css/gallery.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/katalina/src/galleryComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/katalina/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/katalina/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/katalina/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/katalina/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/katalina/src/Gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/katalina/src/Gallery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/katalina/src/components/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/katalina/src/components/footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/katalina/src/components/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/katalina/src/components/nav.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/katalina/src/components/navPC.js" beforeDir="false" afterPath="$PROJECT_DIR$/katalina/src/components/navPC.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/katalina/src/css/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/katalina/src/css/contact.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/katalina/src/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/katalina/src/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/katalina/src/components/sideSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/katalina/src/components/sideSection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/katalina/src/css/gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/katalina/src/css/gallery.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/katalina/src/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/katalina/src/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/katalina/src/galleryComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/katalina/src/galleryComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/katalina/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/katalina/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/katalina/src/news.js" beforeDir="false" afterPath="$PROJECT_DIR$/katalina/src/news.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/katalina/src/productView.js" beforeDir="false" afterPath="$PROJECT_DIR$/katalina/src/productView.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,25 +29,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/katalina/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="83" column="26" lean-forward="true" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
+            <state relative-caret-position="506">
+              <caret line="100" column="27" lean-forward="true" selection-start-line="100" selection-start-column="27" selection-end-line="100" selection-end-column="27" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="news.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/katalina/src/news.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,8 +44,8 @@
       <file leaf-file-name="Gallery.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/katalina/src/Gallery.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+            <state relative-caret-position="207">
+              <caret line="230" column="110" selection-start-line="230" selection-start-column="110" selection-end-line="230" selection-end-column="110" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -62,11 +53,38 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/katalina/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/katalina/src/css/gallery.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="galleryComponent.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/katalina/src/galleryComponent.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            <state relative-caret-position="414">
+              <caret line="21" column="64" lean-forward="true" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -77,35 +95,8 @@
       <file leaf-file-name="sideSection.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/katalina/src/components/sideSection.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/katalina/src/data.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="620" column="55" selection-start-line="620" selection-start-column="55" selection-end-line="620" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/katalina/public/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gallery.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/katalina/src/css/gallery.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+            <state relative-caret-position="138">
+              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -137,25 +128,31 @@
         <option value="$PROJECT_DIR$/katalina/src/components/Gallery.js" />
         <option value="$PROJECT_DIR$/katalina/src/components/productView.js" />
         <option value="$PROJECT_DIR$/katalina/src/components/mobileNav.js" />
-        <option value="$PROJECT_DIR$/katalina/src/news.js" />
         <option value="$PROJECT_DIR$/katalina/src/css/news/news.css" />
         <option value="$PROJECT_DIR$/katalina/src/content/productViewColors.js" />
         <option value="$PROJECT_DIR$/katalina/src/components/productViewColors.js" />
-        <option value="$PROJECT_DIR$/katalina/src/productView.js" />
         <option value="$PROJECT_DIR$/katalina/src/css/productView/productView.css" />
-        <option value="$PROJECT_DIR$/katalina/src/css/main.css" />
         <option value="$PROJECT_DIR$/katalina/src/css/contact.css" />
         <option value="$PROJECT_DIR$/katalina/src/css/gallery.ts" />
-        <option value="$PROJECT_DIR$/katalina/src/components/navPC.js" />
-        <option value="$PROJECT_DIR$/katalina/src/css/gallery.css" />
         <option value="$PROJECT_DIR$/katalina/src/components/footer.js" />
         <option value="$PROJECT_DIR$/katalina/src/productViewColors.js" />
+        <option value="$PROJECT_DIR$/katalina/src/news.js" />
+        <option value="$PROJECT_DIR$/katalina/src/components/sideSection.js" />
+        <option value="$PROJECT_DIR$/katalina/src/data.json" />
+        <option value="$PROJECT_DIR$/katalina/src/productView.js" />
         <option value="$PROJECT_DIR$/katalina/src/index.js" />
         <option value="$PROJECT_DIR$/katalina/src/galleryComponent.js" />
-        <option value="$PROJECT_DIR$/katalina/src/Gallery.js" />
-        <option value="$PROJECT_DIR$/katalina/src/components/sideSection.js" />
         <option value="$PROJECT_DIR$/katalina/public/index.html" />
-        <option value="$PROJECT_DIR$/katalina/src/data.json" />
+        <option value="$PROJECT_DIR$/katalina/src/css/nav.css" />
+        <option value="$PROJECT_DIR$/katalina/src/components/optionTags.js" />
+        <option value="$PROJECT_DIR$/katalina/src/css/main.css" />
+        <option value="$PROJECT_DIR$/katalina/src/components/navPC.js" />
+        <option value="$PROJECT_DIR$/katalina/src/components/nav.js" />
+        <option value="$PROJECT_DIR$/katalina/src/components/Collections.js" />
+        <option value="$PROJECT_DIR$/katalina/src/css/gallery.css" />
+        <option value="$PROJECT_DIR$/katalina/src/Gallery.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/katalina/.gitignore" />
       </list>
     </option>
   </component>
@@ -174,8 +171,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="224" />
-    <option name="y" value="178" />
+    <option name="x" value="-174" />
+    <option name="y" value="77" />
     <option name="width" value="1364" />
     <option name="height" value="728" />
   </component>
@@ -196,27 +193,6 @@
               <item name="Katalina-site" type="b2602c69:ProjectViewProjectNode" />
               <item name="Katalina-site" type="462c0819:PsiDirectoryNode" />
               <item name="katalina" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Katalina-site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Katalina-site" type="462c0819:PsiDirectoryNode" />
-              <item name="katalina" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Katalina-site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Katalina-site" type="462c0819:PsiDirectoryNode" />
-              <item name="katalina" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Katalina-site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Katalina-site" type="462c0819:PsiDirectoryNode" />
-              <item name="katalina" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="CollectionsLogo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -274,32 +250,34 @@
       <workItem from="1558534980240" duration="5747000" />
       <workItem from="1558606690908" duration="24142000" />
       <workItem from="1558859506362" duration="5412000" />
-      <workItem from="1558885201940" duration="8375000" />
+      <workItem from="1558885201940" duration="23906000" />
+      <workItem from="1559139140734" duration="9666000" />
+      <workItem from="1559149198973" duration="8653000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87050000" />
+    <option name="totallyTimeSpent" value="120900000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26510417" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18541667" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.17321998" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26248673" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TypeScript" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.34006375" />
@@ -317,30 +295,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/katalina/src/css/news/news.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/katalina/src/data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/katalina/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/katalina/src/Gallery.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -515,16 +469,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/katalina/src/components/Collections.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-207">
-          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/katalina/src/components/Slider.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -566,20 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/katalina/src/css/productView/productView.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/katalina/src/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/katalina/src/css/contact.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -594,26 +524,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/katalina/src/components/navPC.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/katalina/src/components/nav.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/katalina/src/components/footer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
@@ -624,94 +534,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/katalina/src/productView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2622">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/katalina/src/productViewColors.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
           <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/katalina/src/css/productView/productView.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/katalina/src/productView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-92">
+          <caret line="138" column="74" selection-start-line="138" selection-start-column="74" selection-end-line="138" selection-end-column="74" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/katalina/src/components/SliderComponent.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/katalina/src/components/sideSection.js">
+    <entry file="file://$PROJECT_DIR$/katalina/src/news.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/katalina/src/css/gallery.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="644">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/katalina/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        <state relative-caret-position="345">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/katalina/src/Gallery.js">
+    <entry file="file://$PROJECT_DIR$/katalina/src/data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+        <state relative-caret-position="138">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/katalina/src/components/optionTags.js" />
+    <entry file="file://$PROJECT_DIR$/katalina/src/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/katalina/src/css/nav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/katalina/src/components/nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/katalina/src/components/navPC.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/katalina/src/components/Collections.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/katalina/src/css/gallery.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/katalina/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="100" column="27" lean-forward="true" selection-start-line="100" selection-start-column="27" selection-end-line="100" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/katalina/src/galleryComponent.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        <state relative-caret-position="414">
+          <caret line="21" column="64" lean-forward="true" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/katalina/src/data.json">
+    <entry file="file://$PROJECT_DIR$/katalina/src/components/sideSection.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="620" column="55" selection-start-line="620" selection-start-column="55" selection-end-line="620" selection-end-column="55" />
+        <state relative-caret-position="138">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/katalina/src/news.js">
+    <entry file="file://$PROJECT_DIR$/katalina/src/Gallery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state relative-caret-position="207">
+          <caret line="230" column="110" selection-start-line="230" selection-start-column="110" selection-end-line="230" selection-end-column="110" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/katalina/src/index.js">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="83" column="26" lean-forward="true" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="48">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/katalina/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
         </state>
       </provider>
     </entry>

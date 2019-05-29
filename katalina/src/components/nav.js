@@ -5,7 +5,7 @@ import '../css/nav.css';
 
 const Nav = (props) => {
     const getResponsiveNav = () => {
-        if (props.currentWidth > 850) {
+        if (props.currentWidth > 1125) {
             return <NavPC />;
         }
         else {

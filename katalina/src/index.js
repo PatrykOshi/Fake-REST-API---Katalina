@@ -34,7 +34,6 @@ class App extends Component {
         this.handleResizeEvent();
         this.loadJsonData();
     }
-
     handleLoad = () =>{
         let interval = setInterval(() =>{
             if(document.readyState === 'complete') {
@@ -48,6 +47,7 @@ class App extends Component {
             }
         }, 100);
     };
+
 
     loadJsonData = () => {
         return JSON.parse(JSON.stringify(require('./data.json')));
