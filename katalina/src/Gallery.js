@@ -3,6 +3,7 @@ import Nav from './components/nav';
 import Footer from './components/footer';
 import SideSection from './components/sideSection';
 import GalleryComponent from './galleryComponent';
+import Data from './data';
 import './css/gallery.css'
 
 class Gallery extends React.Component{
@@ -59,7 +60,7 @@ class Gallery extends React.Component{
 
 
     loadJsonData = () => {
-        return JSON.parse(JSON.stringify(require('./data.json')));
+        return Data;
     };
 
     getColNumbers = (inRow) =>{
