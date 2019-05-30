@@ -9,7 +9,7 @@ const sideSection = (props) => {
         for(let i=1; i< data.length; i++){
             jsx.push(
                 <li key={`callopseColec${i}`}>
-                    <ColectionC data={data[i]} key={`${i}col`} colId={i}/>
+                    <ColectionC setPage={props.setPage} data={data[i]} key={`${i}col`} colId={i}/>
                 </li>
             )
         }

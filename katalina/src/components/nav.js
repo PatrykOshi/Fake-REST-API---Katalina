@@ -6,7 +6,7 @@ import '../css/nav.css';
 const Nav = (props) => {
     const getResponsiveNav = () => {
         if (props.currentWidth > 1125) {
-            return <NavPC />;
+            return <NavPC setPage={props.setPage}/>;
         }
         else {
             return <MobileNav />;

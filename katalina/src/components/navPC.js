@@ -1,6 +1,6 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-
+import { HashLink as Link } from 'react-router-hash-link';
+import { hashHistory } from 'react-router';
 class navPC extends React.Component{
     constructor(props){
         super(props);
@@ -8,7 +8,7 @@ class navPC extends React.Component{
         this.state = {
             data: JSON.parse(JSON.stringify(require('../data.json'))),
             actionLink: null,
-            map: null
+            map: null,
         }
     }
 
@@ -77,7 +77,14 @@ class navPC extends React.Component{
         e.preventDefault();
 
         if(this.state.actionLink != null){
-            window.location.replace(`/productView/${this.state.actionLink}`);
+            if(this.props.setPage != null){
+                hashHistory.push(`/productView/${this.state.actionLink}`);
+                let params = `${this.state.actionLink}`.split(`/`);
+                this.props.setPage(params[0],params[1],params[2],params[3]);
+            }
+            else{
+                hashHistory.push(`/productView/${this.state.actionLink}`);
+            }
         }
     };
 
@@ -87,14 +94,16 @@ class navPC extends React.Component{
         });
     };
 
+
+
     render(){
         return (
             <nav className="responsive-nav" style={{
                 zIndex:"1"
             }}>
-                <a className="nav-link-to-top" href="/#top">
+                <Link to="/#top" className="nav-link-to-top">
                     <img className="img-fluid logo" src={require('../content/logo.png')} alt="Katalina-logo"/>
-                </a>
+                </Link>
 
                 <div className="nav-links-wrapper row">
                     <div style={{paddingRight:"20px",marginTop:"-5px"}}>
@@ -105,10 +114,10 @@ class navPC extends React.Component{
                             </datalist>
                         </form>
                     </div>
-                    <a className="links scroll" href="/#nowosci">NOWOŚCI</a>
-                    <a className="links scroll" href="/#kolekcje">KOLEKCJE</a>
-                    <a className="links scroll" href="/#lookbook">LOOKBOOK</a>
-                    <a className="links scroll" href="/#kontakt">KONTAKT</a>
+                    <Link to="/#nowosci" className="links scroll">NOWOŚCI</Link>
+                    <Link to="/#kolekcje" className="links scroll" >KOLEKCJE</Link>
+                    <Link to="/#lookbook" className="links scroll" >LOOKBOOK</Link>
+                    <Link to="/#kontakt" className="links scroll" >KONTAKT</Link>
                     <Link to={{
                         pathname:"/gallery",
                         test: "as"

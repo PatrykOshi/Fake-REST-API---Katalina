@@ -1,5 +1,6 @@
 import React from 'react';
 import ModelsC from './modelsCallopse';
+import { Link } from 'react-router-dom';
 
 const newsCallopse = (props) => {
     const data = props.data;
@@ -22,6 +23,10 @@ const newsCallopse = (props) => {
         return Math.floor(Math.random() * 900);
     };
 
+    const setGalleryPage = () => {
+        props.setPage(props.colId, props.newsID);
+    };
+
     let id = getRandomId();
     return (
         <div>
@@ -29,9 +34,9 @@ const newsCallopse = (props) => {
                 <a className="callopse-links" data-toggle="collapse" href={`#A${id}`} role="button">
                     {data[0]} <i className="fas fa-arrows-alt-v"> </i>
                 </a>
-                <a className="callopse-links"  href={`/gallery/${props.colId}/${props.newsID}`}>
+                <Link to={`/gallery/${props.colId}/${props.newsID}`} onClick={setGalleryPage} className="callopse-links"  >
                     <i className="fas fa-filter"> </i>Filtruj
-                </a>
+                </Link>
             </p>
             <div className="collapse" id={`A${id}`}>
                 <ul>

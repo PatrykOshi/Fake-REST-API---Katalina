@@ -43,6 +43,15 @@ class productView extends React.Component{
         }, 100);
     };
 
+    setPage = (col,news,model,color) => {
+        this.setState({
+            col : col,
+            news : news,
+            model :model,
+            color :color,
+        });
+    };
+
     switchImgSrc = (e) =>{
         let main = document.getElementById("myimage");
         let fr1 = document.getElementById("fr1");
@@ -173,7 +182,7 @@ class productView extends React.Component{
                             </div>
                         </div>
                         <div className="row" style={{marginTop:"25px"}}>
-                            <Colors col={this.state.col} news={this.state.news} model={this.state.model} data={this.state.data[this.state.col].news[this.state.news][this.state.model][1]}/>
+                            <Colors setPage={this.setPage} col={this.state.col} news={this.state.news} model={this.state.model} data={this.state.data[this.state.col].news[this.state.news][this.state.model][1]}/>
                         </div>
                     </div>
                 </div>
@@ -190,7 +199,7 @@ class productView extends React.Component{
     render(){
         return(
             <div>
-                <Nav currentWidth={this.state.width}/>
+                <Nav currentWidth={this.state.width} setPage={this.setPage}/>
                 <Separator title={`${this.state.data[this.state.col].name} ${this.state.data[this.state.col].news[this.state.news][this.state.model][0]} ${this.state.data[this.state.col].news[this.state.news][this.state.model][1][this.state.color].color}`} setId={''} devider={2}/>
                 {this.getContent()}
                 <Footer />

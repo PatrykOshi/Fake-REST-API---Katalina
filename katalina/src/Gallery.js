@@ -21,11 +21,15 @@ class Gallery extends React.Component{
 
     }
 
+    componentWillReceiveProps(){
+        this.forceUpdate();
+    }
+
+
     componentDidMount() {
         window.scrollTo(0, 0);
         this.handleResizeEvent();
         this.handleLoad();
-
     }
 
     componentDidUpdate(){
@@ -217,6 +221,12 @@ class Gallery extends React.Component{
         });
     };
 
+    onLinksClck = (col, news) =>{
+        this.setState({
+            colection: col,
+            news: news
+        });
+    };
     render(){
         return (
             <div>
@@ -224,7 +234,7 @@ class Gallery extends React.Component{
                 <div className="spacer">
                 </div>
                 <div className="container-fluid">
-                    <SideSection width={this.state.width} data={this.state.data}/>
+                    <SideSection width={this.state.width} setPage={this.onLinksClck} data={this.state.data}/>
                     <div className="row">
                         <div className="col-0 col-md-3" style={{zIndex:"-10000"}}> </div>
                         <div className="col-12 col-md-9">

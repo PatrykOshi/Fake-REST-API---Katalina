@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
-import {HashRouter, Route} from 'react-router-dom';
+import {HashRouter  ,Route, Switch } from 'react-router-dom';
 import Data from './data';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './css/main.css';
@@ -18,6 +18,7 @@ import News from './news';
 import Footer from './components/footer';
 import ParallaxImg1 from './content/parallax/para.jpg';
 import ParallaxImg2 from './content/parallax/para2.jpg';
+import {hashHistory} from "react-router";
 
 
 class App extends Component {
@@ -100,12 +101,12 @@ class App extends Component {
     render() {
         return (
             <HashRouter>
-                <div>
-                    <Route path="/" exact component={this.mainPage}/>
-                    <Route path="/gallery/:col?/:news?" component={Gallery}/>
-                    <Route path="/productView/:col/:news/:model/:color" component={productView}/>
-                </div>
-            </HashRouter>
+                <Switch>
+                        <Route path="/" exact component={this.mainPage}/>
+                        <Route path="/gallery/:col?/:news?" component={Gallery}/>
+                        <Route path="/productView/:col/:news/:model/:color" component={productView}/>
+                </Switch>
+            </HashRouter >
         );
     }
 }

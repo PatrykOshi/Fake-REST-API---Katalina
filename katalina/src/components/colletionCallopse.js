@@ -1,5 +1,6 @@
 import React from 'react';
 import NewsC from './newsCallopse';
+import { Link } from 'react-router-dom';
 
 const colletionCallopse = (props) =>{
     const data = props.data;
@@ -10,7 +11,7 @@ const colletionCallopse = (props) =>{
         for(let i=0; i<data.news.length; i++){
             jsx.push(
               <li key={`colCalopse${i}`}>
-                  <NewsC data={data.news[i]} key={`${i}news${data.news[i][0]}`} colId={props.colId} newsID={i}/>
+                  <NewsC data={data.news[i]} key={`${i}news${data.news[i][0]}`} colId={props.colId} newsID={i} setPage={props.setPage}/>
               </li>
             );
         }
@@ -22,6 +23,10 @@ const colletionCallopse = (props) =>{
         return Math.floor(Math.random() * 900);
     };
 
+    const setGalleryPage = () => {
+        props.setPage(props.colId);
+    };
+
     let id = getRandomId();
     return(
         <div>
@@ -29,9 +34,9 @@ const colletionCallopse = (props) =>{
                 <a className="callopse-links" data-toggle="collapse" href={`#col${id}`} role="button">
                     {data.name} <i className="fas fa-arrows-alt-v"> </i>
                 </a>
-                <a className="callopse-links " href={`/gallery/${props.colId}`} >
+                <Link to={`/gallery/${props.colId}`} params={{tmp:'asd'}} onClick={setGalleryPage} className="callopse-links ">
                     <i className="fas fa-filter"> </i>Filtruj
-                </a>
+                </Link>
             </p>
             <div className="collapse" id={`col${id}`} >
                 <ul>
