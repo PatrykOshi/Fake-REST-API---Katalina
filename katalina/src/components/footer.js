@@ -23,7 +23,7 @@ const Footer = (props) => {
                     paddingTop:`${props.noDevider === true ? '40': '100'}px`,
                     color: "white"
                 }}>
-                    Copyrights 2018 by Patryk Oshibuchi. All rights reserved.<br />
+                    Copyrights 2019 by Patryk Oshibuchi. All rights reserved.<br />
                     Projekt i realizacja: Patryk Oshibuchi
                 </p>
             </div>

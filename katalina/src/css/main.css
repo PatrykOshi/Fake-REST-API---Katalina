@@ -1,4 +1,6 @@
-﻿html {
+﻿@charset "UTF-8";
+
+html {
     height: 100%;
     box-sizing: border-box;
 }
@@ -10,7 +12,13 @@ body {
     min-height: 100%;
 }
 
-@charset "UTF-8";
+.callopse-links{
+    color:black;
+}
+
+.callopse-links:hover{
+    color: black;
+}
 
 /*!
  * animate.css -http://daneden.me/animate

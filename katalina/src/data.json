@@ -1,12 +1,548 @@
 [
   {
-    "last": 2
+    "last": 1
   },
   {
     "name": "MOTTO",
     "shortCut": "MT",
     "logo": "./content/CollectionsLogo/MOTTO.jpg",
     "news":[
+      [
+        "MOTTO Sierpień 2018",
+        [
+          "535",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/sier/MT 535 c 1/MT 535 c 1_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 535 c 1/MT 535 c 1_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 535 c 1/MT 535 c 1_2D_0003_large.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/sier/MT 535 c 2/MT 535 c 2_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 535 c 2/MT 535 c 2_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 535 c 2/MT 535 c 2_2D_0003_large.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/sier/MT 535 c 3/MT 535 c 3_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 535 c 3/MT 535 c 3_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 535 c 3/MT 535 c 3_2D_0003_large.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/sier/MT 535 c 4/MT 535 c 4_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 535 c 4/MT 535 c 4_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 535 c 4/MT 535 c 4_2D_0003_large.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/sier/MT 535 c 5/MT 535 c 5_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 535 c 5/MT 535 c 5_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 535 c 5/MT 535 c 5_2D_0003_large.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/sier/MT 535 c 6/MT 535 c 6_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 535 c 6/MT 535 c 6_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 535 c 6/MT 535 c 6_2D_0003_large.jpg"
+            }
+          ]
+        ],
+        [
+          "536",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/sier/MT 536 c 1/MT 536 c 1_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 536 c 1/MT 536 c 1_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 536 c 1/MT 536 c 1_2D_0003_large.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/sier/MT 536 c 2/MT 536 c 2_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 536 c 2/MT 536 c 2_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 536 c 2/MT 536 c 2_2D_0003_large.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/sier/MT 536 c 3/MT 536 c 3_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 536 c 3/MT 536 c 3_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 536 c 3/MT 536 c 3_2D_0003_large.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/sier/MT 536 c 4/MT 536 c 4_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 536 c 4/MT 536 c 4_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 536 c 4/MT 536 c 4_2D_0003_large.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/sier/MT 536 c 5/MT 536 c 5_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 536 c 5/MT 536 c 5_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 536 c 5/MT 536 c 5_2D_0003_large.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/sier/MT 536 c 6/MT 536 c 6_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 536 c 6/MT 536 c 6_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 536 c 6/MT 536 c 6_2D_0003_large.jpg"
+            }
+          ]
+        ],
+        [
+          "537",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/sier/MT 537 c 1/MT 537 c 1_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 537 c 1/MT 537 c 1_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 537 c 1/MT 537 c 1_2D_0003_large.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/sier/MT 537 c 2/MT 537 c 2_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 537 c 2/MT 537 c 2_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 537 c 2/MT 537 c 2_2D_0003_large.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/sier/MT 537 c 3/MT 537 c 3_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 537 c 3/MT 537 c 3_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 537 c 3/MT 537 c 3_2D_0003_large.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/sier/MT 537 c 4/MT 537 c 4_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 537 c 4/MT 537 c 4_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 537 c 4/MT 537 c 4_2D_0003_large.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/sier/MT 537 c 5/MT 537 c 5_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 537 c 5/MT 537 c 5_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 537 c 5/MT 537 c 5_2D_0003_large.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/sier/MT 537 c 6/MT 537 c 6_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 537 c 6/MT 537 c 6_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 537 c 6/MT 537 c 6_2D_0003_large.jpg"
+            }
+          ]
+        ],
+        [
+          "538",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/sier/MT 538 c 1/MT 538 c 1_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 538 c 1/MT 538 c 1_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 538 c 1/MT 538 c 1_2D_0003_large.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/sier/MT 538 c 2/MT 538 c 2_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 538 c 2/MT 538 c 2_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 538 c 2/MT 538 c 2_2D_0003_large.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/sier/MT 538 c 3/MT 538 c 3_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 538 c 3/MT 538 c 3_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 538 c 3/MT 538 c 3_2D_0003_large.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/sier/MT 538 c 4/MT 538 c 4_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 538 c 4/MT 538 c 4_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 538 c 4/MT 538 c 4_2D_0003_large.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/sier/MT 538 c 5/MT 538 c 5_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 538 c 5/MT 538 c 5_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 538 c 5/MT 538 c 5_2D_0003_large.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/sier/MT 538 c 6/MT 538 c 6_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 538 c 6/MT 538 c 6_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 538 c 6/MT 538 c 6_2D_0003_large.jpg"
+            }
+          ]
+        ],
+        [
+          "539",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/sier/MT 539 c 1/MT 539 c 1_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 539 c 1/MT 539 c 1_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 539 c 1/MT 539 c 1_2D_0003_large.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/sier/MT 539 c 2/MT 539 c 2_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 539 c 2/MT 539 c 2_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 539 c 2/MT 539 c 2_2D_0003_large.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/sier/MT 539 c 3/MT 539 c 3_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 539 c 3/MT 539 c 3_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 539 c 3/MT 539 c 3_2D_0003_large.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/sier/MT 539 c 4/MT 539 c 4_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 539 c 4/MT 539 c 4_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 539 c 4/MT 539 c 4_2D_0003_large.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/sier/MT 539 c 5/MT 539 c 5_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 539 c 5/MT 539 c 5_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 539 c 5/MT 539 c 5_2D_0003_large.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/sier/MT 539 c 6/MT 539 c 6_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 539 c 6/MT 539 c 6_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 539 c 6/MT 539 c 6_2D_0003_large.jpg"
+            }
+          ]
+        ],
+        [
+          "544",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/sier/MT 544 c 1/MT 544 c 1_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 544 c 1/MT 544 c 1_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 544 c 1/MT 544 c 1_2D_0003_large.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/sier/MT 544 c 2/MT 544 c 2_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 544 c 2/MT 544 c 2_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 544 c 2/MT 544 c 2_2D_0003_large.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/sier/MT 544 c 3/MT 544 c 3_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 544 c 3/MT 544 c 3_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 544 c 3/MT 544 c 3_2D_0003_large.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/sier/MT 544 c 4/MT 544 c 4_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 544 c 4/MT 544 c 4_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 544 c 4/MT 544 c 4_2D_0003_large.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/sier/MT 544 c 5/MT 544 c 5_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 544 c 5/MT 544 c 5_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 544 c 5/MT 544 c 5_2D_0003_large.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/sier/MT 544 c 6/MT 544 c 6_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 544 c 6/MT 544 c 6_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 544 c 6/MT 544 c 6_2D_0003_large.jpg"
+            }
+          ]
+        ],
+        [
+          "545",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/sier/MT 545 c 1/MT 545 c 1_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 545 c 1/MT 545 c 1_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 545 c 1/MT 545 c 1_2D_0003_large.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/sier/MT 545 c 2/MT 545 c 2_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 545 c 2/MT 545 c 2_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 545 c 2/MT 545 c 2_2D_0003_large.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/sier/MT 545 c 3/MT 545 c 3_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 545 c 3/MT 545 c 3_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 545 c 3/MT 545 c 3_2D_0003_large.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/sier/MT 545 c 4/MT 545 c 4_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 545 c 4/MT 545 c 4_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 545 c 4/MT 545 c 4_2D_0003_large.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/sier/MT 545 c 5/MT 545 c 5_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 545 c 5/MT 545 c 5_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 545 c 5/MT 545 c 5_2D_0003_large.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/sier/MT 545 c 6/MT 545 c 6_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 545 c 6/MT 545 c 6_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 545 c 6/MT 545 c 6_2D_0003_large.jpg"
+            }
+          ]
+        ],
+        [
+          "546",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/sier/MT 546 c 1/MT 546 c 1_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 546 c 1/MT 546 c 1_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 546 c 1/MT 546 c 1_2D_0003_large.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/sier/MT 546 c 2/MT 546 c 2_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 546 c 2/MT 546 c 2_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 546 c 2/MT 546 c 2_2D_0003_large.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/sier/MT 546 c 3/MT 546 c 3_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 546 c 3/MT 546 c 3_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 546 c 3/MT 546 c 3_2D_0003_large.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/sier/MT 546 c 4/MT 546 c 4_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 546 c 4/MT 546 c 4_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 546 c 4/MT 546 c 4_2D_0003_large.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/sier/MT 546 c 5/MT 546 c 5_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 546 c 5/MT 546 c 5_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 546 c 5/MT 546 c 5_2D_0003_large.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/sier/MT 546 c 6/MT 546 c 6_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 546 c 6/MT 546 c 6_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 546 c 6/MT 546 c 6_2D_0003_large.jpg"
+            }
+          ]
+        ],
+        [
+          "547",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/sier/MT 547 c 1/MT 547 c 1_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 547 c 1/MT 547 c 1_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 547 c 1/MT 547 c 1_2D_0003_large.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/sier/MT 547 c 2/MT 547 c 2_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 547 c 2/MT 547 c 2_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 547 c 2/MT 547 c 2_2D_0003_large.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/sier/MT 547 c 3/MT 547 c 3_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 547 c 3/MT 547 c 3_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 547 c 3/MT 547 c 3_2D_0003_large.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/sier/MT 547 c 4/MT 547 c 4_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 547 c 4/MT 547 c 4_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 547 c 4/MT 547 c 4_2D_0003_large.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/sier/MT 547 c 5/MT 547 c 5_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 547 c 5/MT 547 c 5_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 547 c 5/MT 547 c 5_2D_0003_large.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/sier/MT 547 c 6/MT 547 c 6_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 547 c 6/MT 547 c 6_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 547 c 6/MT 547 c 6_2D_0003_large.jpg"
+            }
+          ]
+        ],
+        [
+          "559",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/sier/MT 559 c 1/MT 559 c 1_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 559 c 1/MT 559 c 1_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 559 c 1/MT 559 c 1_2D_0003_large.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/sier/MT 559 c 2/MT 559 c 2_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 559 c 2/MT 559 c 2_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 559 c 2/MT 559 c 2_2D_0003_large.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/sier/MT 559 c 3/MT 559 c 3_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 559 c 3/MT 559 c 3_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 559 c 3/MT 559 c 3_2D_0003_large.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/sier/MT 559 c 4/MT 559 c 4_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 559 c 4/MT 559 c 4_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 559 c 4/MT 559 c 4_2D_0003_large.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/sier/MT 559 c 5/MT 559 c 5_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 559 c 5/MT 559 c 5_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 559 c 5/MT 559 c 5_2D_0003_large.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/sier/MT 559 c 6/MT 559 c 6_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 559 c 6/MT 559 c 6_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 559 c 6/MT 559 c 6_2D_0003_large.jpg"
+            }
+          ]
+        ],
+        [
+          "560",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/sier/MT 560 c 1/MT 560 c 1_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 560 c 1/MT 560 c 1_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 560 c 1/MT 560 c 1_2D_0003_large.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/sier/MT 560 c 2/MT 560 c 2_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 560 c 2/MT 560 c 2_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 560 c 2/MT 560 c 2_2D_0003_large.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/sier/MT 560 c 3/MT 560 c 3_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 560 c 3/MT 560 c 3_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 560 c 3/MT 560 c 3_2D_0003_large.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/sier/MT 560 c 4/MT 560 c 4_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 560 c 4/MT 560 c 4_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 560 c 4/MT 560 c 4_2D_0003_large.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/sier/MT 560 c 5/MT 560 c 5_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 560 c 5/MT 560 c 5_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 560 c 5/MT 560 c 5_2D_0003_large.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/sier/MT 560 c 6/MT 560 c 6_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 560 c 6/MT 560 c 6_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 560 c 6/MT 560 c 6_2D_0003_large.jpg"
+            }
+          ]
+        ],
+        [
+          "561",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/sier/MT 561 c 1/MT 561 c 1_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 561 c 1/MT 561 c 1_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 561 c 1/MT 561 c 1_2D_0003_large.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/sier/MT 561 c 2/MT 561 c 2_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 561 c 2/MT 561 c 2_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 561 c 2/MT 561 c 2_2D_0003_large.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/sier/MT 561 c 3/MT 561 c 3_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 561 c 3/MT 561 c 3_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 561 c 3/MT 561 c 3_2D_0003_large.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/sier/MT 561 c 4/MT 561 c 4_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 561 c 4/MT 561 c 4_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 561 c 4/MT 561 c 4_2D_0003_large.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/sier/MT 561 c 5/MT 561 c 5_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 561 c 5/MT 561 c 5_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 561 c 5/MT 561 c 5_2D_0003_large.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/sier/MT 561 c 6/MT 561 c 6_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 561 c 6/MT 561 c 6_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 561 c 6/MT 561 c 6_2D_0003_large.jpg"
+            }
+          ]
+        ],
+        [
+          "562",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/sier/MT 562 c 1/MT 562 c 1_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 562 c 1/MT 562 c 1_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 562 c 1/MT 562 c 1_2D_0003_large.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/sier/MT 562 c 2/MT 562 c 2_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 562 c 2/MT 562 c 2_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 562 c 2/MT 562 c 2_2D_0003_large.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/sier/MT 562 c 3/MT 562 c 3_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 562 c 3/MT 562 c 3_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 562 c 3/MT 562 c 3_2D_0003_large.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/sier/MT 562 c 4/MT 562 c 4_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 562 c 4/MT 562 c 4_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 562 c 4/MT 562 c 4_2D_0003_large.jpg"
+            },
+            {
+              "color": "C5",
+              "img1": "./content/Models/sier/MT 562 c 5/MT 562 c 5_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 562 c 5/MT 562 c 5_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 562 c 5/MT 562 c 5_2D_0003_large.jpg"
+            },
+            {
+              "color": "C6",
+              "img1": "./content/Models/sier/MT 562 c 6/MT 562 c 6_2D_0001_large.jpg",
+              "img2": "./content/Models/sier/MT 562 c 6/MT 562 c 6_2D_0002_large.jpg",
+              "img3": "./content/Models/sier/MT 562 c 6/MT 562 c 6_2D_0003_large.jpg"
+            }
+          ]
+        ]
+      ],
       [
         "MOTTO - Wrzesień 2018",
         [

@@ -6,20 +6,16 @@
 .model-link-from-gallery{
     margin-bottom: 15px;
 }
-<<<<<<< HEAD
 .model-img-container{
     width: 100%;
     display: flex;
 }
-=======
->>>>>>> 8057a2d21d11d9c7dab311c8701ad1c490105ff0
 
 .model-link-from-gallery:hover{
     box-shadow: 1px 1px 15px rgba(0,0,0,.9);
     text-decoration: none;
 }
 
-<<<<<<< HEAD
 .model-img{
     max-height: 130px;
     justify-content: center;
@@ -31,13 +27,6 @@
 .labelsForGallery{
     padding-top: 6px;
 }
-=======
-
-.model-details{
-    color: black;
-}
-
->>>>>>> 8057a2d21d11d9c7dab311c8701ad1c490105ff0
 @media only screen and (min-width: 767px)  {
     .model-details{
         margin-top: 50px;
