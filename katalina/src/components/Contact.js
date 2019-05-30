@@ -14,9 +14,9 @@ const Contact = () => {
             <div className="row" style={{marginTop: '100px'}}>
                 <div className="container">
                     <div className="row">
-                        <InfoComponent textContent="(22) 897 11 30" icon={phoneIcon}/>
-                        <InfoComponent textContent="info@katalina.pl" icon={mail}/>
-                        <InfoComponent textContent="Kabaretowa 21, Warszawa" icon={address}/>
+                        <InfoComponent phone="(22) 897 11 30" icon={phoneIcon}/>
+                        <InfoComponent mail="Biuro@katalina.pl  reklamacje: reklamacja@katalina.pl" icon={mail}/>
+                        <InfoComponent address="Kabaretowa 21, Warszawa" icon={address}/>
                     </div>
                 </div>
             </div>

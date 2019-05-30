@@ -20,7 +20,7 @@ const News = (props) => {
                         <div className="container">
                             <img className="img-fluid center-block-logo" src={require(`${logo}`)} alt={data[data[0].last].name}/>
                             <img className="img-fluid" src={require(`${newsFrames[i][1][0].img2}`)} alt={data[data[0].last].name}/>
-                            <p className="text-center model-name-news">
+                            <p className="text-center model-name-news" style={{paddingTop:"20px"}}>
                                 Model:{newsFrames[i][0]}
                             </p>
                         </div>

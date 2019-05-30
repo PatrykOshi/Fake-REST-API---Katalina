@@ -18,17 +18,22 @@ const colletionCallopse = (props) =>{
         return jsx;
     };
 
+    const getRandomId = () => {
+        return Math.floor(Math.random() * 900);
+    };
+
+    let id = getRandomId();
     return(
         <div>
             <p>
-                <a className="callopse-links" data-toggle="collapse" href={`#col${data.name}`} role="button">
+                <a className="callopse-links" data-toggle="collapse" href={`#col${id}`} role="button">
                     {data.name} <i className="fas fa-arrows-alt-v"> </i>
                 </a>
                 <a className="callopse-links " href={`/gallery/${props.colId}`} >
                     <i className="fas fa-filter"> </i>Filtruj
                 </a>
             </p>
-            <div className="collapse" id={`col${data.name}`} >
+            <div className="collapse" id={`col${id}`} >
                 <ul>
                     {getCallopseNews()}
                 </ul>
