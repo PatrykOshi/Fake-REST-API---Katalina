@@ -3609,5 +3609,334 @@
         ]
       ]
     ]
+  },
+  {
+    "name": "TODD",
+    "shortCut": "TD",
+    "logo": "./content/CollectionsLogo/TODD.jpg",
+    "news":[
+      [
+        "Todd Marzec 2019",
+        [
+          "700",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 700 C1/TD 700 C1_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 700 C1/TD 700 C1_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 700 C1/TD 700 C1_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 700 C2/TD 700 C2_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 700 C2/TD 700 C2_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 700 C2/TD 700 C2_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 700 C3/TD 700 C3_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 700 C3/TD 700 C3_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 700 C3/TD 700 C3_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 700 C4/TD 700 C4_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 700 C4/TD 700 C4_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 700 C4/TD 700 C4_2d_0003_wynik.jpg"
+            }
+          ]
+        ],
+        [
+          "701",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 701 C1/TD 701 C1_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 701 C1/TD 701 C1_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 701 C1/TD 701 C1_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 701 C2/TD 701 C2_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 701 C2/TD 701 C2_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 701 C2/TD 701 C2_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 701 C3/TD 701 C3_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 701 C3/TD 701 C3_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 701 C3/TD 701 C3_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 701 C4/TD 701 C4_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 701 C4/TD 701 C4_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 701 C4/TD 701 C4_2d_0003_wynik.jpg"
+            }
+          ]
+        ],
+        [
+          "702",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 702 C1/TD 702 C1_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 702 C1/TD 702 C1_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 702 C1/TD 702 C1_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 702 C2/TD 702 C2_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 702 C2/TD 702 C2_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 702 C2/TD 702 C2_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 702 C3/TD 702 C3_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 702 C3/TD 702 C3_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 702 C3/TD 702 C3_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 702 C4/TD 702 C4_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 702 C4/TD 702 C4_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 702 C4/TD 702 C4_2d_0003_wynik.jpg"
+            }
+          ]
+        ],
+        [
+          "703",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 703 C1/TD 703 C1_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 703 C1/TD 703 C1_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 703 C1/TD 703 C1_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 703 C2/TD 703 C2_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 703 C2/TD 703 C2_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 703 C2/TD 703 C2_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 703 C3/TD 703 C3_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 703 C3/TD 703 C3_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 703 C3/TD 703 C3_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 703 C4/TD 703 C4_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 703 C4/TD 703 C4_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 703 C4/TD 703 C4_2d_0003_wynik.jpg"
+            }
+          ]
+        ],
+        [
+          "704",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 704 C1/TD 704 C1_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 704 C1/TD 704 C1_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 704 C1/TD 704 C1_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 704 C2/TD 704 C2_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 704 C2/TD 704 C2_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 704 C2/TD 704 C2_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 704 C3/TD 704 C3_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 704 C3/TD 704 C3_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 704 C3/TD 704 C3_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 704 C4/TD 704 C4_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 704 C4/TD 704 C4_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 704 C4/TD 704 C4_2d_0003_wynik.jpg"
+            }
+          ]
+        ],
+        [
+          "705",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 705 C1/TD 705 C1_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 705 C1/TD 705 C1_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 705 C1/TD 705 C1_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 705 C2/TD 705 C2_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 705 C2/TD 705 C2_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 705 C2/TD 705 C2_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 705 C3/TD 705 C3_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 705 C3/TD 705 C3_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 705 C3/TD 705 C3_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 705 C4/TD 705 C4_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 705 C4/TD 705 C4_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 705 C4/TD 705 C4_2d_0003_wynik.jpg"
+            }
+          ]
+        ],
+        [
+          "706",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 706 C1/TD 706 C1_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 706 C1/TD 706 C1_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 706 C1/TD 706 C1_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 706 C2/TD 706 C2_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 706 C2/TD 706 C2_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 706 C2/TD 706 C2_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 706 C3/TD 706 C3_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 706 C3/TD 706 C3_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 706 C3/TD 706 C3_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 706 C4/TD 706 C4_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 706 C4/TD 706 C4_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 706 C4/TD 706 C4_2d_0003_wynik.jpg"
+            }
+          ]
+        ],
+        [
+          "707",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 707 C1/TD 707 C1_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 707 C1/TD 707 C1_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 707 C1/TD 707 C1_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 707 C2/TD 707 C2_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 707 C2/TD 707 C2_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 707 C2/TD 707 C2_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 707 C3/TD 707 C3_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 707 C3/TD 707 C3_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 707 C3/TD 707 C3_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 707 C4/TD 707 C4_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 707 C4/TD 707 C4_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 707 C4/TD 707 C4_2d_0003_wynik.jpg"
+            }
+          ]
+        ],
+        [
+          "708",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 708 C1/TD 708 C1_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 708 C1/TD 708 C1_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 708 C1/TD 708 C1_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 708 C2/TD 708 C2_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 708 C2/TD 708 C2_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 708 C2/TD 708 C2_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 708 C3/TD 708 C3_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 708 C3/TD 708 C3_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 708 C3/TD 708 C3_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 708 C4/TD 708 C4_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 708 C4/TD 708 C4_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 708 C4/TD 708 C4_2d_0003_wynik.jpg"
+            }
+          ]
+        ],
+        [
+          "709",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 709 C1/TD 709 C1_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 709 C1/TD 709 C1_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 709 C1/TD 709 C1_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 709 C2/TD 709 C2_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 709 C2/TD 709 C2_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 709 C2/TD 709 C2_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 709 C3/TD 709 C3_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 709 C3/TD 709 C3_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 709 C3/TD 709 C3_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 709 C4/TD 709 C4_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 709 C4/TD 709 C4_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 709 C4/TD 709 C4_2d_0003_wynik.jpg"
+            }
+          ]
+        ],
+        [
+          "710",
+          [
+            {
+              "color": "C1",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 710 C1/TD 710 C1_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 710 C1/TD 710 C1_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 710 C1/TD 710 C1_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C2",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 710 C2/TD 710 C2_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 710 C2/TD 710 C2_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 710 C2/TD 710 C2_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C3",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 710 C3/TD 710 C3_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 710 C3/TD 710 C3_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 710 C3/TD 710 C3_2d_0003_wynik.jpg"
+            },
+            {
+              "color": "C4",
+              "img1": "./content/Models/Toddy MArzec 2019/TD 710 C4/TD 710 C4_2d_0001_wynik.jpg",
+              "img2": "./content/Models/Toddy MArzec 2019/TD 710 C4/TD 710 C4_2d_0002_wynik.jpg",
+              "img3": "./content/Models/Toddy MArzec 2019/TD 710 C4/TD 710 C4_2d_0003_wynik.jpg"
+            }
+          ]
+        ]
+      ]
+    ]
   }
 ]
