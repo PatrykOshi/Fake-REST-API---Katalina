@@ -10,7 +10,7 @@ const newsCallopse = (props) => {
       for(let i=1; i< data.length; i++){
           jsx.push(
               <li key={`keyNewsCal${i}`}>
-                  <ModelsC data={data[i]}/>
+                  <ModelsC data={data[i]} colID={props.colId} newsID={props.newsID} modelID={i}/>
               </li>
           );
       }
@@ -28,6 +28,9 @@ const newsCallopse = (props) => {
             <p>
                 <a className="callopse-links" data-toggle="collapse" href={`#A${id}`} role="button">
                     {data[0]} <i className="fas fa-arrows-alt-v"> </i>
+                </a>
+                <a className="callopse-links"  href={`/gallery/${props.colId}/${props.newsID}`}>
+                    <i className="fas fa-filter"> </i>Filtruj
                 </a>
             </p>
             <div className="collapse" id={`A${id}`}>

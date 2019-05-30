@@ -1,5 +1,5 @@
 import React from 'react';
-
+import {Link} from 'react-router-dom';
 
 const collorsCallopse = (props) => {
     const data = props.data;
@@ -7,15 +7,12 @@ const collorsCallopse = (props) => {
     return (
         <div>
             <p>
-                <a className="callopse-links" data-toggle="collapse" href={`#models${data[0]}idCalopse`} role="button">
-                    {data.color} <i className="fas fa-arrows-alt-v"> </i>
-                </a>
+                <Link className="callopse-links" to={{
+                    pathname:`/productView/${props.colID}/${props.newsID}/${props.modelID}/${props.colorID}`,
+                }}>
+                    {data.color}<i className="fas fa-link"> </i>
+                </Link>
             </p>
-            <div className="collapse" id={`models${data[0]}idCalopse`}>
-                <ul>
-
-                </ul>
-            </div>
         </div>
     );
 };
