@@ -9,7 +9,7 @@ const Nav = (props) => {
             return <NavPC setPage={props.setPage}/>;
         }
         else {
-            return <MobileNav />;
+            return <MobileNav setPage={props.setPage} />;
         }
     };
     return getResponsiveNav();

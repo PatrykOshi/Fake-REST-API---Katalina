@@ -3,14 +3,30 @@
     background-image: url(../../content/Fasion/banner.jpg);
     position: relative;
     height: 100vh;
-    background-position: center;
-    background-attachment: fixed;
-    background-size: cover;
+    background-attachment:fixed;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-size:cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: center center;
 }
 
+.parralax{
+    background-attachment: fixed;
+}
+
+@media only screen and (max-width: 767px)  {
+    .mainBackground{
+        background-attachment:scroll;
+    }
+    .parralax{
+        background-attachment:scroll;
+    }
+}
 /*scroll down animation*/
 .scrollDownAnimation{
     position: absolute;
