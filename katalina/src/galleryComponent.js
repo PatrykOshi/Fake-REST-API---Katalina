@@ -19,6 +19,9 @@ const galleryComponent = (props) => {
                             <table className="table table-striped model-details text-center col-12 col-md-6">
                                 <tbody>
                                 <tr>
+                                    <td>Kolekcja: {props.collection}</td>
+                                </tr>
+                                <tr>
                                     <td>Model: {props.name}</td>
                                 </tr>
                                 <tr>
@@ -41,6 +44,9 @@ const galleryComponent = (props) => {
                     </div>
                     <table className="table table-striped text-center">
                         <tbody>
+                        <tr>
+                            <td>Kolekcja: {props.collection}</td>
+                        </tr>
                         <tr>
                             <td>Model: {props.name}</td>
                         </tr>

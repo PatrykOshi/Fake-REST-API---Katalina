@@ -95,6 +95,7 @@ class Gallery extends React.Component{
                                     img={data[i][j][x].img2}
                                     name={data[i][0]}
                                     color={data[i][j][x].color}
+                                    collection={this.state.data[this.state.colection].name}
                                     colLink={this.state.colection}
                                     newsLink={this.state.news}
                                     modeLink={i}
@@ -120,6 +121,7 @@ class Gallery extends React.Component{
                                         img={data[i][j][x][y].img2}
                                         name={data[i][j][0]}
                                         color={data[i][j][x][y].color}
+                                        collection={this.state.data[this.state.colection].name}
                                         colLink={this.state.colection}
                                         newsLink={i}
                                         modeLink={j}
@@ -153,6 +155,7 @@ class Gallery extends React.Component{
                                                 img={data[i].news[j][k][z][x].img2}
                                                 name={data[i].news[j][k][0]}
                                                 color={data[i].news[j][k][z][x].color}
+                                                collection={data[i].name}
                                                 colLink={i}
                                                 newsLink={j}
                                                 modeLink={k}
@@ -170,6 +173,7 @@ class Gallery extends React.Component{
                                             img={data[i].news[j][k][z][x].img2}
                                             name={data[i].news[j][k][0]}
                                             color={data[i].news[j][k][z][x].color}
+                                            collection={data[i].name}
                                             colLink={i}
                                             newsLink={j}
                                             modeLink={k}
