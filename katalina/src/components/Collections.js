@@ -16,7 +16,7 @@ const Collections = () => {
         <section className="container collectionPresentation">
             <div className="row text-center">
                 <CollectionComponent imgSrc={mottoLogo} altTag="MOTTO"/>
-                <CollectionComponent imgSrc={lpLogo} altTag="LA PASSION"/>
+                <CollectionComponent style={{marginLeft:"20px"}} imgSrc={lpLogo} altTag="LA PASSION"/>
                 <CollectionComponent imgSrc={enLogo} altTag="EN VOGUE"/>
                 <CollectionComponent imgSrc={TODD} altTag="TODD"/>
                 <CollectionComponent imgSrc={prLogo} altTag="PRELUDIUM"/>
