@@ -9,7 +9,8 @@ class MobileNav extends React.Component{
             data: JSON.parse(JSON.stringify(require('../data.json'))),
             actionLink: null,
             map: null,
-        }
+        };
+        this.btn = React.createRef();
     }
 
     componentDidMount() {
@@ -85,6 +86,21 @@ class MobileNav extends React.Component{
             else{
                 hashHistory.push(`/productView/${this.state.actionLink}`);
             }
+        }else{
+            let regex = new RegExp(this.btn.current.value.toUpperCase());
+            let map = this.state.map;
+            for(let filed in map) {
+                if(regex.test(filed)){
+                    if(this.props.setPage != null){
+                        hashHistory.push(`/productView/${this.state.map[filed]}`);
+                        let params = `${this.state.map[filed]}`.split(`/`);
+                        this.props.setPage(params[0],params[1],params[2],params[3]);
+                    }else{
+                        hashHistory.push(`/productView/${this.state.map[filed]}`);
+                    }
+                }
+            }
+
         }
     };
 
@@ -113,7 +129,7 @@ class MobileNav extends React.Component{
                             <form method="get" onSubmit={(this.validateThisForm)}>
                                 <div className="container-fluid">
                                     <div className="row">
-                                        <input className="form-control col" list="models" placeholder="Szukaj" style={{maxWidth:"175px"}} onChange={this.showName}/>
+                                        <input ref={this.btn} className="form-control col" list="models" placeholder="Szukaj" style={{maxWidth:"175px"}} onChange={this.showName}/>
 
                                         <button type="submit"  className="btn btn-primary">Szukaj</button>
                                     </div>

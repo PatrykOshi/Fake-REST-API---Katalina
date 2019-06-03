@@ -18,7 +18,6 @@ import News from './news';
 import Footer from './components/footer';
 import ParallaxImg1 from './content/parallax/para.jpg';
 import ParallaxImg2 from './content/parallax/para2.jpg';
-import {hashHistory} from "react-router";
 
 
 class App extends Component {

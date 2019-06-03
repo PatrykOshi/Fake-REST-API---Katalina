@@ -7,7 +7,6 @@ const Parallax = (props) => {
         height: '500px',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
-        webkitBackgroundSize: 'cover',
         WebkitFilter: 'grayscale(100%)'
     };
     return <div className="parralax" style={parralaxStyle}> </div>;
