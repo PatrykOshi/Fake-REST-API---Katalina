@@ -9,7 +9,9 @@ class navPC extends React.Component{
             data: JSON.parse(JSON.stringify(require('../data.json'))),
             actionLink: null,
             map: null,
-        }
+        };
+        this.btn = React.createRef();
+
     }
 
     componentDidMount() {
@@ -85,6 +87,21 @@ class navPC extends React.Component{
             else{
                 hashHistory.push(`/productView/${this.state.actionLink}`);
             }
+        }else{
+            let regex = new RegExp(this.btn.current.value.toUpperCase());
+            let map = this.state.map;
+            for(let filed in map) {
+                if(regex.test(filed)){
+                    if(this.props.setPage != null){
+                        hashHistory.push(`/productView/${this.state.map[filed]}`);
+                        let params = `${this.state.map[filed]}`.split(`/`);
+                        this.props.setPage(params[0],params[1],params[2],params[3]);
+                    }else{
+                        hashHistory.push(`/productView/${this.state.map[filed]}`);
+                    }
+                }
+            }
+
         }
     };
 
@@ -108,7 +125,7 @@ class navPC extends React.Component{
                 <div className="nav-links-wrapper row">
                     <div style={{paddingRight:"20px",marginTop:"-5px"}}>
                         <form method="get" onSubmit={(this.validateThisForm)}>
-                            <input className="form-control" list="models" placeholder="Szukaj" style={{maxWidth:"175px",borderRadius:"10px"}} onChange={this.showName}/>
+                            <input ref={this.btn} className="form-control" list="models" placeholder="Szukaj" style={{maxWidth:"175px",borderRadius:"10px"}} onChange={this.showName}/>
                             <datalist id="models" style={{height:"150px"}}>
                                 {this.getOptionsElements()}
                             </datalist>
