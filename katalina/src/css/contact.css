@@ -1,11 +1,15 @@
 /*contact*/
 
 .contactInfoIcon{
-    max-height: 75px;
+    max-height: 100px;
 }
 
 .contactText{
     font-size: 15px;
+}
+
+.phone-icon{
+    margin-top: 10px;
 }
 
 .title{

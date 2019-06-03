@@ -32,7 +32,7 @@ const InfoComponent = (props) => {
 
     return(
         <div className="col-12 col-md-4 text-center">
-            <img className="img-fluid contactInfoIcon" src={props.icon} alt=""/>
+            <img className={`img-fluid contactInfoIcon ${props.type === "phone" ? 'phone-icon':''}`} src={props.icon} alt=""/>
             {props.phone != null ? getPhone():''}
             {props.mail != null ? getMails():''}
             {props.address != null ? getAddress():''}
