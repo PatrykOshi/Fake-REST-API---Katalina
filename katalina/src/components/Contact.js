@@ -25,7 +25,7 @@ const Contact = () => {
                     NASI HANDLOWCY
                 </p>
                 <div className="row" style={{marginTop: '100px'}}>
-                    <div className="col-0 col-md-2"></div>
+                    <div className="col-0 col-md-1"></div>
                     <Trader phone="510-415-345" name="Paweł" surname="Radel" mail="p.radel@katalina.pl" regions={[
                         'Mazowieckie',
                         'Lubelskie',
@@ -45,7 +45,7 @@ const Contact = () => {
                             ]}/>
                 </div>
                 <div className="row">
-                    <div className="col-0 col-md-2"></div>
+                    <div className="col-0 col-md-1"></div>
                     <Trader phone="510-775-090" name="Arkadiusz" surname="Mandes" mail="a.mandes@katalina.pl" regions={[
                         'Opolskie',
                         'Małopolskie',
@@ -59,6 +59,12 @@ const Contact = () => {
                                 'Lubuskie',
                                 'Opolskie'
                             ]}/>
+                    <div className="col-0 col-md-4"> </div>
+
+                        <Trader phone="509-870-265" name="Wojsciech" surname="Siekierski" mail="w.siekierski@katalina.pl"
+                                regions={[
+                                    'Śląskie'
+                                ]}/>
                 </div>
             </div>
         </div>

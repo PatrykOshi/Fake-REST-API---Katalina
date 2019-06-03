@@ -13,7 +13,7 @@ const Trader = (props) => {
     };
 
     return(
-        <div className="col-12 col-md-3 traderWarpper ">
+        <div className="col-12 col-md-4 traderWarpper ">
             <div className="text-center iconContainer">
                 <i className="fas fa-user-tie fa-5x"> </i>
             </div>
