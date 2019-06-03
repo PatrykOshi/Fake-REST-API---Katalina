@@ -15,18 +15,18 @@ const Collections = () => {
     return (
         <section className="container collectionPresentation">
             <div className="row text-center">
-                <CollectionComponent imgSrc={mottoLogo} altTag="MOTTO"/>
-                <CollectionComponent style={{marginLeft:"20px"}} imgSrc={lpLogo} altTag="LA PASSION"/>
-                <CollectionComponent imgSrc={enLogo} altTag="EN VOGUE"/>
-                <CollectionComponent imgSrc={TODD} altTag="TODD"/>
-                <CollectionComponent imgSrc={prLogo} altTag="PRELUDIUM"/>
+                <CollectionComponent colId={1} imgSrc={mottoLogo} altTag="MOTTO"/>
+                <CollectionComponent colId={4} style={{marginLeft:"20px"}} imgSrc={lpLogo} altTag="LA PASSION"/>
+                <CollectionComponent colId={3} imgSrc={enLogo} altTag="EN VOGUE"/>
+                <CollectionComponent colId={6}  imgSrc={TODD} altTag="TODD"/>
+                <CollectionComponent colId={5} imgSrc={prLogo} altTag="PRELUDIUM"/>
             </div>
             <div className="container" style={{marginTop: '-120px'}}>
                 <div className="row text-center">
                     <CollectionComponent imgSrc={shLogo} altTag="SHOUT"/>
                     <CollectionComponent imgSrc={lcLogo} altTag="LA CORONA"/>
                     <CollectionComponent imgSrc={tzLogo} altTag="TALISMAN"/>
-                    <CollectionComponent imgSrc={geosLogo} altTag="GEOS"/>
+                    <CollectionComponent colId={2} imgSrc={geosLogo} altTag="GEOS"/>
                 </div>
             </div>
         </section>

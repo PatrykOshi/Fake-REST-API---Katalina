@@ -15,9 +15,9 @@ const InfoComponent = (props) => {
     const getMails = () =>{
         return(
             <p className="text-center">
-                Biuro@katalina.pl <br /><br />
-                Zamówienia: Zamowienia@katalina.pl<br /><br />
-                Reklamacje: Reklamacje@katalina.pl
+                biuro@katalina.pl <br /><br />
+                Zamówienia: zamowienia@katalina.pl<br /><br />
+                Reklamacje: reklamacje@katalina.pl
             </p>
         );
     };
