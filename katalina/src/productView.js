@@ -1,4 +1,5 @@
 import React from 'react';
+import { HashLink as Link } from 'react-router-hash-link';
 import Nav from './components/nav';
 import Colors from './productViewColors';
 import Footer from './components/footer';
@@ -145,6 +146,11 @@ class productView extends React.Component{
                     </div>
                     <div ref={this.content} className="container fadeIn animated" onLoad={this.loadLens} style={{display:"none"}} >
                         <div className="row" onLoad={this.handleLoad}>
+
+                            <Link to="/#top" style={{marginTop:"20px"}}>
+                                <button type="button" className="btn btn-outline-dark"><i className="fas fa-undo"> </i> Wróć do strony głównej</button>
+                            </Link>
+
                             <div className="container" style={{marginTop:"50px"}}>
                                 <div className="row">
                                     <div className="col-6 col-md-3">

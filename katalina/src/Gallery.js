@@ -1,10 +1,12 @@
 import React from 'react';
+import { HashLink as Link } from 'react-router-hash-link';
 import Nav from './components/nav';
 import Footer from './components/footer';
 import SideSection from './components/sideSection';
 import GalleryComponent from './galleryComponent';
 import Data from './data';
 import './css/gallery.css'
+
 
 class Gallery extends React.Component{
     constructor(props){
@@ -253,6 +255,10 @@ class Gallery extends React.Component{
                                         <label className="labelsForGallery" htmlFor="allOrNotAll">Pokaż wszystko</label>
                                         <input id="allOrNotAll" type="checkbox" disabled={this.props.match.params.col? 'true':''} onClick={this.showHideAll}/>
                                     </div>
+                                    <Link to="/#top">
+                                        <button type="button" className="btn btn-outline-dark"><i className="fas fa-undo"> </i> Wróć do strony głównej</button>
+                                    </Link>
+
                                 </div>
                             </div>
 
