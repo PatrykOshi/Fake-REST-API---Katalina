@@ -15,6 +15,13 @@ const CollectionsComponent = (props) => {
                 </Link>
             );
         }else{
+            if(props.colId === undefined){
+                return(
+                    <div className={`col-12 col-md`}>
+                        <img className="img-fluid collectionImg" src={props.imgSrc} alt={props.altTag}/>
+                    </div>
+                );
+            }
             return(
                 <Link to={`/gallery/${props.colId}`} className={`col-12 col-md`}>
                     <div>

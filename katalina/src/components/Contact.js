@@ -61,7 +61,7 @@ const Contact = () => {
                             ]}/>
                     <div className="col-0 col-md-4"> </div>
 
-                        <Trader phone="509-870-265" name="Wojsciech" surname="Siekierski" mail="w.siekierski@katalina.pl"
+                        <Trader phone="509-870-265" name="Wojciech" surname="Siekierski" mail="w.siekierski@katalina.pl"
                                 regions={[
                                     'Śląskie'
                                 ]}/>
