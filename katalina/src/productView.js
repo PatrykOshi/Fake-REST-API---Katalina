@@ -1,5 +1,6 @@
 import React from 'react';
 import { HashLink as Link } from 'react-router-hash-link';
+import Data from './data';
 import Nav from './components/nav';
 import Colors from './productViewColors';
 import Footer from './components/footer';
@@ -10,7 +11,7 @@ class productView extends React.Component{
     constructor(props){
         super(props);
         this.state = {
-            data : JSON.parse(JSON.stringify(require('./data.json'))),
+            data : this.loadJsonData(),
             col : props.match.params.col,
             news : props.match.params.news,
             model :props.match.params.model,
@@ -26,6 +27,9 @@ class productView extends React.Component{
         window.scrollTo(0, 0);
         this.handleResizeEvent();
     }
+    loadJsonData = () => {
+        return Data;
+    };
     handleLoad = () =>{
         let interval = setInterval(() =>{
             if(document.readyState === 'complete') {

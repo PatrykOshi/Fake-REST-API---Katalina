@@ -42,7 +42,7 @@ const News = (props) => {
                 pathname: `/gallery/${data[0].last}/${newsLength}`
             }}>
                 <h2 className="text-center">
-                    {data[data[0].last].news[newsLength][0]}
+                    {data[data[0].last].name}
                 </h2>
             </Link>
             <div className="row">

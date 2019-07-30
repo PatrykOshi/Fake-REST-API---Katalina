@@ -1,12 +1,13 @@
 import React from 'react';
 import { HashLink as Link } from 'react-router-hash-link';
 import { hashHistory } from 'react-router';
+import Data from '../data';
 class navPC extends React.Component{
     constructor(props){
         super(props);
 
         this.state = {
-            data: JSON.parse(JSON.stringify(require('../data.json'))),
+            data : this.loadJsonData(),
             actionLink: null,
             map: null,
         };
@@ -20,6 +21,9 @@ class navPC extends React.Component{
         });
 
     }
+    loadJsonData = () => {
+        return Data;
+    };
     setMap = () =>{
         let map = {};
         let data = this.state.data;

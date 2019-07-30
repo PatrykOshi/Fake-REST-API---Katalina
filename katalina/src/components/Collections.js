@@ -25,7 +25,7 @@ const Collections = () => {
                 <div className="row text-center">
                     <CollectionComponent imgSrc={shLogo} altTag="SHOUT"/>
                     <CollectionComponent imgSrc={lcLogo} altTag="LA CORONA"/>
-                    <CollectionComponent imgSrc={tzLogo} altTag="TALISMAN"/>
+                    <CollectionComponent imgSrc={tzLogo} colId={7}altTag="TALISMAN"/>
                     <CollectionComponent colId={2} imgSrc={geosLogo} altTag="GEOS"/>
                 </div>
             </div>

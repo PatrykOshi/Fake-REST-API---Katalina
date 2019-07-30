@@ -20,7 +20,7 @@ const sideSection = (props) => {
     return(
         <div className="col-12 col-md-3" style={ {position: `${props.width <= 767 ? 'relative' : 'fixed'}`,height: `${props.width <= 767 ? 'auto': '100%'}`,overflow:`${props.width <= 767 ? '': 'scroll'}`}}>
             <p>
-                <a className="callopse-links" data-toggle="collapse" href="#offer" role="button">
+                <a className="callopse-links text-center" data-toggle="collapse" href="#offer" role="button" style={{fontSize:"30px"}}>
                     Nasze kolekcje <i className="fas fa-arrows-alt-v"> </i>
                 </a>
             </p>

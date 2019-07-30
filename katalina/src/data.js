@@ -1854,7 +1854,420 @@ const data =[
                         }
                     ]
                 ]
+            ],
+            [
+                "En Vouge czerwiec 2019",
+                [
+                    "9034",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9034 C1/EV 9034 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9034 C1/EV 9034 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9034 C1/EV 9034 C1_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "9035",
+                    [
+
+                        {
+                            "color": "C6",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9035 C6/EV 9035 C6_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9035 C6/EV 9035 C6_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9035 C6/EV 9035 C6_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "9036",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9036 C1/EV 9036 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9036 C1/EV 9036 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9036 C1/EV 9036 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C4",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9036 C4/EV 9036 C4_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9036 C4/EV 9036 C4_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9036 C4/EV 9036 C4_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C6",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9036 C6/EV 9036 C6_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9036 C6/EV 9036 C6_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9036 C6/EV 9036 C6_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "9037",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9037 C1/EV 9037 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9037 C1/EV 9037 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9037 C1/EV 9037 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9037 C2/EV 9037 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9037 C2/EV 9037 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9037 C2/EV 9037 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9037 C3/EV 9037 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9037 C3/EV 9037 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9037 C3/EV 9037 C3_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C4",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9037 C4/EV 9037 C4_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9037 C4/EV 9037 C4_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9037 C4/EV 9037 C4_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C5",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9037 C5/EV 9037 C5_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9037 C5/EV 9037 C5_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9037 C5/EV 9037 C5_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C6",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9037 C6/EV 9037 C6_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9037 C6/EV 9037 C6_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9037 C6/EV 9037 C6_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "9038",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9038 C1/EV 9038 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9038 C1/EV 9038 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9038 C1/EV 9038 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9038 C2/EV 9038 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9038 C2/EV 9038 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9038 C2/EV 9038 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9038 C3/EV 9038 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9038 C3/EV 9038 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9038 C3/EV 9038 C3_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C4",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9038 C4/EV 9038 C4_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9038 C4/EV 9038 C4_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9038 C4/EV 9038 C4_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C5",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9038 C5/EV 9038 C5_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9038 C5/EV 9038 C5_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9038 C5/EV 9038 C5_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C6",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9038 C6/EV 9038 C6_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9038 C6/EV 9038 C6_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9038 C6/EV 9038 C6_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "9039",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9039 C1/EV 9039 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9039 C1/EV 9039 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9039 C1/EV 9039 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9039 C2/EV 9039 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9039 C2/EV 9039 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9039 C2/EV 9039 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9039 C3/EV 9039 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9039 C3/EV 9039 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9039 C3/EV 9039 C3_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C4",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9039 C4/EV 9039 C4_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9039 C4/EV 9039 C4_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9039 C4/EV 9039 C4_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C5",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9039 C5/EV 9039 C5_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9039 C5/EV 9039 C5_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9039 C5/EV 9039 C5_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C6",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9039 C6/EV 9039 C6_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9039 C6/EV 9039 C6_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9039 C6/EV 9039 C6_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "9041",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9041 C1/EV 9041 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9041 C1/EV 9041 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9041 C1/EV 9041 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9041 C2/EV 9041 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9041 C2/EV 9041 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9041 C2/EV 9041 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9041 C3/EV 9041 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9041 C3/EV 9041 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9041 C3/EV 9041 C3_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C4",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9041 C4/EV 9041 C4_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9041 C4/EV 9041 C4_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9041 C4/EV 9041 C4_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C5",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9041 C5/EV 9041 C5_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9041 C5/EV 9041 C5_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9041 C5/EV 9041 C5_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C6",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9041 C6/EV 9041 C6_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9041 C6/EV 9041 C6_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9041 C6/EV 9041 C6_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "9042",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9042 C1/EV 9042 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9042 C1/EV 9042 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9042 C1/EV 9042 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9042 C2/EV 9042 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9042 C2/EV 9042 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9042 C2/EV 9042 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9042 C3/EV 9042 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9042 C3/EV 9042 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9042 C3/EV 9042 C3_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C4",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9042 C4/EV 9042 C4_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9042 C4/EV 9042 C4_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9042 C4/EV 9042 C4_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C5",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9042 C5/EV 9042 C5_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9042 C5/EV 9042 C5_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9042 C5/EV 9042 C5_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C6",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9042 C6/EV 9042 C6_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9042 C6/EV 9042 C6_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9042 C6/EV 9042 C6_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "9043",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9043 C1/EV 9043 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9043 C1/EV 9043 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9043 C1/EV 9043 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9043 C2/EV 9043 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9043 C2/EV 9043 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9043 C2/EV 9043 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9043 C3/EV 9043 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9043 C3/EV 9043 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9043 C3/EV 9043 C3_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C4",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9043 C4/EV 9043 C4_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9043 C4/EV 9043 C4_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9043 C4/EV 9043 C4_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C5",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9043 C5/EV 9043 C5_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9043 C5/EV 9043 C5_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9043 C5/EV 9043 C5_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C6",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9043 C6/EV 9043 C6_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9043 C6/EV 9043 C6_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9043 C6/EV 9043 C6_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "9044",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9044 C1/EV 9044 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9044 C1/EV 9044 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9044 C1/EV 9044 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9044 C2/EV 9044 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9044 C2/EV 9044 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9044 C2/EV 9044 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9044 C3/EV 9044 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9044 C3/EV 9044 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9044 C3/EV 9044 C3_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C4",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9044 C4/EV 9044 C4_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9044 C4/EV 9044 C4_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9044 C4/EV 9044 C4_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C5",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9044 C5/EV 9044 C5_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9044 C5/EV 9044 C5_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9044 C5/EV 9044 C5_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C6",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9044 C6/EV 9044 C6_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9044 C6/EV 9044 C6_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9044 C6/EV 9044 C6_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "9045",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9045 C1/EV 9045 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9045 C1/EV 9045 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9045 C1/EV 9045 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9045 C2/EV 9045 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9045 C2/EV 9045 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9045 C2/EV 9045 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9045 C3/EV 9045 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9045 C3/EV 9045 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9045 C3/EV 9045 C3_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C4",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9045 C4/EV 9045 C4_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9045 C4/EV 9045 C4_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9045 C4/EV 9045 C4_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C5",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9045 C5/EV 9045 C5_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9045 C5/EV 9045 C5_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9045 C5/EV 9045 C5_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C6",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9045 C6/EV 9045 C6_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9045 C6/EV 9045 C6_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9045 C6/EV 9045 C6_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "9047",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9047 C1/EV 9047 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9047 C1/EV 9047 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9047 C1/EV 9047 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9047 C2/EV 9047 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9047 C2/EV 9047 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9047 C2/EV 9047 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9047 C3/EV 9047 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9047 C3/EV 9047 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9047 C3/EV 9047 C3_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C4",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9047 C4/EV 9047 C4_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9047 C4/EV 9047 C4_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9047 C4/EV 9047 C4_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C5",
+                            "img1": "./content/Models/En Vouge czerwiec 2019/EV 9047 C5/EV 9047 C5_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/En Vouge czerwiec 2019/EV 9047 C5/EV 9047 C5_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/En Vouge czerwiec 2019/EV 9047 C5/EV 9047 C5_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ]
             ]
+
         ]
     },
     {
@@ -4005,6 +4418,424 @@ const data =[
                             "img1": "./content/Models/Toddy MArzec 2019/TD 710 C6/TD 710 C6_2d_0001_wynik.jpg",
                             "img2": "./content/Models/Toddy MArzec 2019/TD 710 C6/TD 710 C6_2d_0002_wynik.jpg",
                             "img3": "./content/Models/Toddy MArzec 2019/TD 710 C6/TD 710 C6_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ]
+            ]
+        ]
+    },
+    {
+        "name": "TALISMAN",
+        "shortCut": "TZ",
+        "logo": "./content/CollectionsLogo/MOTTO.jpg",
+        "news": [
+            [
+                "Talisman czerwiec 2019",
+                [
+                    "805",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 805 C1/TZ 805 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 805 C1/TZ 805 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 805 C1/TZ 805 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 805 C2/TZ 805 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 805 C2/TZ 805 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 805 C2/TZ 805 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 805 C3/TZ 805 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 805 C3/TZ 805 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 805 C3/TZ 805 C3_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "810",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 810 C1/TZ 810 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 810 C1/TZ 810 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 810 C1/TZ 810 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 810 C2/TZ 810 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 810 C2/TZ 810 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 810 C2/TZ 810 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 810 C3/TZ 810 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 810 C3/TZ 810 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 810 C3/TZ 810 C3_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "812",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 812 C1/TZ 812 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 812 C1/TZ 812 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 812 C1/TZ 812 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 812 C2/TZ 812 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 812 C2/TZ 812 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 812 C2/TZ 812 C2_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "813",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 813 C1/TZ 813 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 813 C1/TZ 813 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 813 C1/TZ 813 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 813 C2/TZ 813 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 813 C2/TZ 813 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 813 C2/TZ 813 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 813 C3/TZ 813 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 813 C3/TZ 813 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 813 C3/TZ 813 C3_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "816",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 816 C1/TZ 816 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 816 C1/TZ 816 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 816 C1/TZ 816 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 816 C2/TZ 816 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 816 C2/TZ 816 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 816 C2/TZ 816 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 816 C3/TZ 816 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 816 C3/TZ 816 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 816 C3/TZ 816 C3_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "820",
+                    [
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 820 C2/TZ 820 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 820 C2/TZ 820 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 820 C2/TZ 820 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 820 C3/TZ 820 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 820 C3/TZ 820 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 820 C3/TZ 820 C3_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C6",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 820 C6/TZ 820 C6_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 820 C6/TZ 820 C6_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 820 C6/TZ 820 C6_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "823",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 823 C1/TZ 823 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 823 C1/TZ 823 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 823 C1/TZ 823 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 823 C2/TZ 823 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 823 C2/TZ 823 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 823 C2/TZ 823 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 823 C3/TZ 823 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 823 C3/TZ 823 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 823 C3/TZ 823 C3_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "826",
+                    [
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 826 C3/TZ 826 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 826 C3/TZ 826 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 826 C3/TZ 826 C3_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C4",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 826 C4/TZ 826 C4_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 826 C4/TZ 826 C4_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 826 C4/TZ 826 C4_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C6",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 826 C6/TZ 826 C6_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 826 C6/TZ 826 C6_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 826 C6/TZ 826 C6_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "843",
+                    [
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 843 C2/TZ 843 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 843 C2/TZ 843 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 843 C2/TZ 843 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 843 C3/TZ 843 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 843 C3/TZ 843 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 843 C3/TZ 843 C3_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C4",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 843 C4/TZ 843 C4_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 843 C4/TZ 843 C4_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 843 C4/TZ 843 C4_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "844",
+                    [
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 844 C2/TZ 844 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 844 C2/TZ 844 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 844 C2/TZ 844 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 844 C3/TZ 844 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 844 C3/TZ 844 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 844 C3/TZ 844 C3_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C6",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 844 C6/TZ 844 C6_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 844 C6/TZ 844 C6_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 844 C6/TZ 844 C6_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "845",
+                    [
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 845 C2/TZ 845 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 845 C2/TZ 845 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 845 C2/TZ 845 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 845 C3/TZ 845 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 845 C3/TZ 845 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 845 C3/TZ 845 C3_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C6",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 845 C6/TZ 845 C6_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 845 C6/TZ 845 C6_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 845 C6/TZ 845 C6_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "847",
+                    [
+                        {
+                            "color": "C4",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 847 C4/TZ 847 C4_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 847 C4/TZ 847 C4_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 847 C4/TZ 847 C4_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C5",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 847 C5/TZ 847 C5_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 847 C5/TZ 847 C5_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 847 C5/TZ 847 C5_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C6",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 847 C6/TZ 847 C6_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 847 C6/TZ 847 C6_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 847 C6/TZ 847 C6_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "853",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 853 C1/TZ 853 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 853 C1/TZ 853 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 853 C1/TZ 853 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 853 C2/TZ 853 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 853 C2/TZ 853 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 853 C2/TZ 853 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 853 C3/TZ 853 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 853 C3/TZ 853 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 853 C3/TZ 853 C3_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "854",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 854 C1/TZ 854 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 854 C1/TZ 854 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 854 C1/TZ 854 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 854 C2/TZ 854 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 854 C2/TZ 854 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 854 C2/TZ 854 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 854 C3/TZ 854 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 854 C3/TZ 854 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 854 C3/TZ 854 C3_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "855",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 855 C1/TZ 855 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 855 C1/TZ 855 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 855 C1/TZ 855 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 855 C2/TZ 855 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 855 C2/TZ 855 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 855 C2/TZ 855 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 855 C3/TZ 855 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 855 C3/TZ 855 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 855 C3/TZ 855 C3_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "856",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 856 C1/TZ 856 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 856 C1/TZ 856 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 856 C1/TZ 856 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 856 C2/TZ 856 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 856 C2/TZ 856 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 856 C2/TZ 856 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 856 C3/TZ 856 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 856 C3/TZ 856 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 856 C3/TZ 856 C3_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "864",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 864 C1/TZ 864 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 864 C1/TZ 864 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 864 C1/TZ 864 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 864 C2/TZ 864 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 864 C2/TZ 864 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 864 C2/TZ 864 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 864 C3/TZ 864 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 864 C3/TZ 864 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 864 C3/TZ 864 C3_2d_0003_wynik.jpg"
+                        }
+                    ]
+                ],
+                [
+                    "866",
+                    [
+                        {
+                            "color": "C1",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 866 C1/TZ 866 C1_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 866 C1/TZ 866 C1_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 866 C1/TZ 866 C1_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C2",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 866 C2/TZ 866 C2_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 866 C2/TZ 866 C2_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 866 C2/TZ 866 C2_2d_0003_wynik.jpg"
+                        },
+                        {
+                            "color": "C3",
+                            "img1": "./content/Models/Talisman czerwiec 2019/TZ 866 C3/TZ 866 C3_2d_0001_wynik.jpg",
+                            "img2": "./content/Models/Talisman czerwiec 2019/TZ 866 C3/TZ 866 C3_2d_0002_wynik.jpg",
+                            "img3": "./content/Models/Talisman czerwiec 2019/TZ 866 C3/TZ 866 C3_2d_0003_wynik.jpg"
                         }
                     ]
                 ]

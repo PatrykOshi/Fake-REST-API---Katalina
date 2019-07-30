@@ -6,7 +6,16 @@ const CollectionsComponent = (props) => {
 
 
     const getContent = () => {
-        if(props.altTag === "LA PASSION" || props.altTag === "EN VOGUE"){
+        if(props.altTag === "LA PASSION"){
+            return (
+                <Link to={`/gallery/${props.colId}`} className={`col-12 col-md`}>
+                    <div>
+                        <img style={{marginLeft:"35px"}} className="img-fluid collectionImg" src={props.imgSrc} alt={props.altTag}/>
+                    </div>
+                </Link>
+            );
+        }
+        if(props.altTag === "EN VOGUE"){
             return (
                 <Link to={`/gallery/${props.colId}`} className={`col-12 col-md`}>
                     <div>
